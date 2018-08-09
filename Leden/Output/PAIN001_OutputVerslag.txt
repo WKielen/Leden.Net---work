@@ -1,0 +1,14 @@
+Incassoverslag: D:\Visual studio projects Sync\Leden.Net - work\Leden\Output\PAIN001.xml
+
+Batch Naam: Batch FRST 14-2-2015 23:06:23
+Aantal: 0  Bedrag: € 0,00
+
+
+
+Batch Naam: Batch RCUR 14-2-2015 23:06:23
+Aantal: 2  Bedrag: € 335,00
+
+23   Kielen, Wim                   € 227,50    2 Wim Kielen                  
+331  Abrahams, Moreno              € 107,50    2 Moreno Abrahams             
+
+

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<CrediteurenLijst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Crediteur>
+    <Crediteur>aaa</Crediteur>
+    <Naam>aa a</Naam>
+    <Dirty>false</Dirty>
+    <IBAN>ddd</IBAN>
+    <BIC />
+    <Omschrijving>dddddddddddddd</Omschrijving>
+  </Crediteur>
+  <Crediteur>
+    <Crediteur>JanHendriksen</Crediteur>
+    <Naam>Jan Hendriksen</Naam>
+    <Dirty>false</Dirty>
+    <IBAN>NL62RABO0381849430</IBAN>
+    <BIC>RABONL2U</BIC>
+    <Omschrijving>Mijn Default Omschrijbing</Omschrijving>
+  </Crediteur>
+  <Crediteur>
+    <Crediteur>jsjssjjs</Crediteur>
+    <Naam>jsjs sjjs</Naam>
+    <Dirty>false</Dirty>
+    <IBAN>dsd</IBAN>
+    <BIC />
+    <Omschrijving />
+  </Crediteur>
+  <Crediteur>
+    <Crediteur>Nieuw</Crediteur>
+    <Naam>Nieuw</Naam>
+    <Dirty>false</Dirty>
+    <IBAN />
+    <BIC />
+    <Omschrijving />
+  </Crediteur>
+</CrediteurenLijst>

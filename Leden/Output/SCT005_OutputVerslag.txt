@@ -1,0 +1,22 @@
+Betalingverslag: C:\Temp\Visual studio projects\Leden.Net - work\Leden\Output\SCT005.xml
+
+Batch Naam: Payments 5 5-12-2014
+Aantal: 1  Bedrag: € 3,00
+
+Lindenaar, Martin             5-12-2014      € 3,00      4211.1111.1111.1111           
+
+
+Batch Naam: Payments 5 31-12-2014
+Aantal: 1  Bedrag: € 6,00
+
+Lindenaar, Martin             31-12-2014     € 6,00      3                             
+
+
+Batch Naam: Payments 5 6-1-2015
+Aantal: 2  Bedrag: € 3,00
+
+Waal, Martijn de              6-1-2015       € 2,00      2                             
+Lindenaar, Martin             6-1-2015       € 1,00      1                             
+
+
+

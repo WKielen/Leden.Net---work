@@ -1,0 +1,21 @@
+Betalingverslag: C:\Temp\Visual studio projects\Leden.Net - work\Leden\Output\SCT003.xml
+
+Batch Naam: Payments 3 29-12-2014
+Aantal: 1  Bedrag: € 0,00
+
+Lindenaar, Martin             30-12-2014     € 0,00      1                             
+
+
+Batch Naam: Payments 3 30-12-2014
+Aantal: 1  Bedrag: € 0,00
+
+Waal, Martijn de              31-12-2014     € 0,00      2                             
+
+
+Batch Naam: Payments 3 31-12-2014
+Aantal: 1  Bedrag: € 0,01
+
+Lindenaar, Martin             31-12-2014     € 0,01      3                             
+
+
+

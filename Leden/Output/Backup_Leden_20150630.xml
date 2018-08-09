@@ -1,0 +1,6295 @@
+<?xml version="1.0"?>
+<LedenLijst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>331</LidNr>
+    <Voornaam>Moreno</Voornaam>
+    <Achternaam>Abrahams</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Dorp 276</Adres>
+    <Woonplaats>BENSCHOP</Woonplaats>
+    <Postcode>3405BL</Postcode>
+    <Mobiel>06-54747575</Mobiel>
+    <Telefoon>030-6021664</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2002-07-23T00:00:00</GeboorteDatum>
+    <BondsNr>3932183</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>wim@kielen.nl</Email1>
+    <Email2>thuis@kielen.nl2</Email2>
+    <LidType>N</LidType>
+    <LidVanaf>2009-11-06T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>2014-06-30T19:26:57</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL26ABNA0402072464</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>A</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam>Yuri</Ouder1_Naam>
+    <Ouder1_Email1>thuis@kielen.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam>Jolanda</Ouder2_Naam>
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel>06-48387098</Ouder2_Mobiel>
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>356</LidNr>
+    <Voornaam>Martijn</Voornaam>
+    <Achternaam>Alblas</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Gerbrandypark 7</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437JW</Postcode>
+    <Mobiel>06-23634489</Mobiel>
+    <Telefoon>030-2682032</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1988-04-12T00:00:00</GeboorteDatum>
+    <BondsNr>3997735</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>martijnalblas@live.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2011-08-30T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-12-05T18:55:31</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>fddsdsaaaaa</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL41RABO0331027046</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>true</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting>test</VrijwillgersToelichting>
+    <LicentieSen>E</LicentieSen>
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>159</LidNr>
+    <Voornaam>Rita</Voornaam>
+    <Achternaam>Alphen Hopman</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Louis Couperushove 29</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438HL</Postcode>
+    <Mobiel />
+    <Telefoon>030-6036567</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1951-01-30T00:00:00</GeboorteDatum>
+    <BondsNr>3471608</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>hoppie51@casema.nl</Email1>
+    <Email2 />
+    <LidType>V</LidType>
+    <LidVanaf>2002-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting>test</VrijwillgersToelichting>
+    <LicentieSen>H</LicentieSen>
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>1</LidNr>
+    <Voornaam>Jan</Voornaam>
+    <Achternaam>Alphen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Louis Couperushove 29</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438HL</Postcode>
+    <Mobiel>06-55694238</Mobiel>
+    <Telefoon>030-6036567</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1946-06-08T00:00:00</GeboorteDatum>
+    <BondsNr>2461600</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>alphen46@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1980-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>G</LicentieJun>
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>2</LidNr>
+    <Voornaam>Rein</Voornaam>
+    <Achternaam>Band</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Braamgaarde 33</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436GM</Postcode>
+    <Mobiel />
+    <Telefoon>030-6039700</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1947-04-21T00:00:00</GeboorteDatum>
+    <BondsNr>2824971</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1991-06-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen>J</LicentieSen>
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>173</LidNr>
+    <Voornaam>Ewa</Voornaam>
+    <Achternaam>Bednarczyk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Orpheuslaan 46</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438VW</Postcode>
+    <Mobiel />
+    <Telefoon>030-6055889</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1995-07-18T00:00:00</GeboorteDatum>
+    <BondsNr>3597917</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>pixiepetje@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2002-05-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL27INGB0005998402</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen>K</LicentieSen>
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>111</LidNr>
+    <Voornaam>Marek</Voornaam>
+    <Achternaam>Bednarczyk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Orpheuslaan 46</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438VW</Postcode>
+    <Mobiel />
+    <Telefoon>030-6055889</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1960-04-19T00:00:00</GeboorteDatum>
+    <BondsNr>3366887</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>marek.bednarczyk@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2000-03-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL27INGB0005998402</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>242</LidNr>
+    <Voornaam>Natalia</Voornaam>
+    <Achternaam>Bednarczyk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Orpheuslaan 46</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438VW</Postcode>
+    <Mobiel>06-42324695</Mobiel>
+    <Telefoon>030-6055889</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1997-12-31T00:00:00</GeboorteDatum>
+    <BondsNr>3788372</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>ailatan@live.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2006-09-20T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-01-01T18:27:13</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL27INGB0005998402</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>B</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>326</LidNr>
+    <Voornaam>Cody</Voornaam>
+    <Achternaam>Beek</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Herman Teirlinckhove 13</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437BL</Postcode>
+    <Mobiel>06-37466289</Mobiel>
+    <Telefoon>030-6050765</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1994-10-13T00:00:00</GeboorteDatum>
+    <BondsNr>3975199</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>beekie94@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-10-02T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL74INGB0006686644</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>408</LidNr>
+    <Voornaam>Maarten</Voornaam>
+    <Achternaam>Benschop</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Hofdijk 33</Adres>
+    <Woonplaats>Montfoort</Woonplaats>
+    <Postcode>3417XE</Postcode>
+    <Mobiel>06-29352123</Mobiel>
+    <Telefoon>0348-474187</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1989-03-12T00:00:00</GeboorteDatum>
+    <BondsNr>3198179</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>maarten_benschop119@hotmail.com</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2013-10-11T12:05:17.784</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-10-11T12:05:17.784</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL02RABO0134614194</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>5</LidNr>
+    <Voornaam>Jan</Voornaam>
+    <Achternaam>Biezen</Achternaam>
+    <Tussenvoegsel>van de</Tussenvoegsel>
+    <Adres>Hermelijnweide 6</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437TV</Postcode>
+    <Mobiel />
+    <Telefoon>030-6031981</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1934-09-19T00:00:00</GeboorteDatum>
+    <BondsNr>0854174</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>j.vandebiezen@ziggo.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1965-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>60</LidNr>
+    <Voornaam>Bart</Voornaam>
+    <Achternaam>Blanken</Achternaam>
+    <Tussenvoegsel>den</Tussenvoegsel>
+    <Adres>Mennersweide 24</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437DR</Postcode>
+    <Mobiel />
+    <Telefoon>030-6035118</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1988-03-20T00:00:00</GeboorteDatum>
+    <BondsNr>3291804</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>b.denblanken@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1998-02-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL22ABNA0811447359</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>6</LidNr>
+    <Voornaam>Henk</Voornaam>
+    <Achternaam>Bleeker</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Graaf Dudosingel 8</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3434RA</Postcode>
+    <Mobiel />
+    <Telefoon>030-6064207</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1955-09-11T00:00:00</GeboorteDatum>
+    <BondsNr>1511355</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>henk@hbleeker.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1981-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>30</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>389</LidNr>
+    <Voornaam>Frank</Voornaam>
+    <Achternaam>Bodenstaff</Achternaam>
+    <Tussenvoegsel />
+    <Adres>De Milan Viscontilaan 25</Adres>
+    <Woonplaats>DE MEERN</Woonplaats>
+    <Postcode>3453RM</Postcode>
+    <Mobiel />
+    <Telefoon>06-51179066</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1976-06-16T00:00:00</GeboorteDatum>
+    <BondsNr>3901328</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>cenf.bodenstaff@kpnplanet.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-11-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL49ABNA0462005828</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>365</LidNr>
+    <Voornaam>Vera</Voornaam>
+    <Achternaam>Boheemen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Vredebestlaan 9</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431CG</Postcode>
+    <Mobiel>06-30206980</Mobiel>
+    <Telefoon>030-6301035</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1999-12-23T00:00:00</GeboorteDatum>
+    <BondsNr>3894084</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>vera-vb@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-01-22T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T20:36:37</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL76INGB0000517602</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>A</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>pietwillemien@casema.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>256</LidNr>
+    <Voornaam>Joris</Voornaam>
+    <Achternaam>Bosboom</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Hemelvuur 43</Adres>
+    <Woonplaats>DE MEERN</Woonplaats>
+    <Postcode>3454SP</Postcode>
+    <Mobiel>06-13239794</Mobiel>
+    <Telefoon>030-6666329</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1961-09-27T00:00:00</GeboorteDatum>
+    <BondsNr>2950463</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>joris.bosboom@xs4all.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2007-05-27T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL45INGB0004036156</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>311</LidNr>
+    <Voornaam>Sven</Voornaam>
+    <Achternaam>Braster</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Barteldsgaarde 11</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436RK</Postcode>
+    <Mobiel />
+    <Telefoon>030-2898710</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1998-06-18T00:00:00</GeboorteDatum>
+    <BondsNr>3915416</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>svenbraster@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-03-20T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-01-01T20:43:56</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>Medisch</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL91INGB0007613076</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>brigittebraster@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>393</LidNr>
+    <Voornaam>Jurre</Voornaam>
+    <Achternaam>Bree</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Pieter Aerstenhage 108</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437NW</Postcode>
+    <Mobiel>06-20031691</Mobiel>
+    <Telefoon>030-6046484</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2004-06-09T00:00:00</GeboorteDatum>
+    <BondsNr>4055366</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>jurre@debree.eu</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-11-14T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL86INGB0005423488</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam>Lonneke</Ouder1_Naam>
+    <Ouder1_Email1>fam@debree.eu</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>394</LidNr>
+    <Voornaam>Timo</Voornaam>
+    <Achternaam>Brenninkmeyer</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Kafmolenweide 3</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437XS</Postcode>
+    <Mobiel>06-30726438</Mobiel>
+    <Telefoon>030-7558557</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2001-12-30T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>timobrenn@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1900-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-01-01T00:00:00</PakketTot>
+    <Medisch>Migraine</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL34ABNA0483424862</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>karinasertons@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>424</LidNr>
+    <Voornaam>Hendrik</Voornaam>
+    <Achternaam>Brion</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Vosseweide 83</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437TC</Postcode>
+    <Mobiel>06-42924801</Mobiel>
+    <Telefoon>030-8895876</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1998-08-20T00:00:00</GeboorteDatum>
+    <BondsNr>4009894</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>hendrik98@hotmail.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-09-28T20:27:47.863</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-09-28T20:27:47.863</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL08INGB0004964142</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>U</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr>N140000055257/705</U_PasNr>
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam>M. Brion</Ouder1_Naam>
+    <Ouder1_Email1>maritza_brion50@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>383</LidNr>
+    <Voornaam>Ernstjan</Voornaam>
+    <Achternaam>Clement</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Kruijderlaan 154</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431BT</Postcode>
+    <Mobiel>06-41148544</Mobiel>
+    <Telefoon>030-6046353</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1998-10-08T00:00:00</GeboorteDatum>
+    <BondsNr>4047452</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>a.clement45@ziggo.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-09-20T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>2014-07-01T13:17:55</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL18RABO0394201523</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>372</LidNr>
+    <Voornaam>Lex</Voornaam>
+    <Achternaam>Cramer</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Malrovegaarde 6</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436JK</Postcode>
+    <Mobiel>06-20606037</Mobiel>
+    <Telefoon>06-20606037</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2002-06-17T00:00:00</GeboorteDatum>
+    <BondsNr>4058534</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-03-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL53RABO0350025541</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>g.cramer@rn.rabobank.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>333</LidNr>
+    <Voornaam>Oscar</Voornaam>
+    <Achternaam>Delissen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Merwedeplantsoen 53</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3522JZ</Postcode>
+    <Mobiel>06-18157749</Mobiel>
+    <Telefoon>030-2888832</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1997-02-07T00:00:00</GeboorteDatum>
+    <BondsNr>3829500</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>delissenwijten@zonnet.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-12-21T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL22INGB0005838927</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>B</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>266</LidNr>
+    <Voornaam>Sanne</Voornaam>
+    <Achternaam>Doorn</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Ringfazant 75</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3435SG</Postcode>
+    <Mobiel>06-44022425</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1989-10-20T00:00:00</GeboorteDatum>
+    <BondsNr>3829128</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>sanne_tweety@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2007-09-21T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL95INGB0008869542</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>30</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen>E</LicentieSen>
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>402</LidNr>
+    <Voornaam>Coen</Voornaam>
+    <Achternaam>Drijfhout</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Melvill van Cainbeelaan 9</Adres>
+    <Woonplaats>DRIEBERGEN RIJSENB</Woonplaats>
+    <Postcode>3971BA</Postcode>
+    <Mobiel />
+    <Telefoon>0343-755408</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1997-10-23T00:00:00</GeboorteDatum>
+    <BondsNr>3991145</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>cdrijfhout@detinne.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-07-20T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>ADHD/PDD NOS</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL27RABO0556961056</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>h.drijfhout@asuadvies.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>10</LidNr>
+    <Voornaam>Sandra</Voornaam>
+    <Achternaam>Dubbers</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Herenstraat 77</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431CA</Postcode>
+    <Mobiel />
+    <Telefoon>030-6031398</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1983-02-07T00:00:00</GeboorteDatum>
+    <BondsNr>3076953</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>sandra_dubbers@live.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1994-04-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL87INGB0005767723</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>30</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>409</LidNr>
+    <Voornaam>Jan</Voornaam>
+    <Achternaam>Duijveman</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Dillegaarde 12</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436HC</Postcode>
+    <Mobiel />
+    <Telefoon>030-6034746</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1952-10-06T00:00:00</GeboorteDatum>
+    <BondsNr>1494082</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>janduijveman@gmail.com</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2013-10-22T19:00:39.139</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-10-22T19:00:39.139</PakketTot>
+    <Medisch>Vanaf 2015 noteren als zwerflid</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL32ABNA0975502794</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>415</LidNr>
+    <Voornaam>Maruf</Voornaam>
+    <Achternaam>Dündar</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Lantaarnstede 32</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431KD</Postcode>
+    <Mobiel>06-27270727</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1979-03-14T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>mpsve@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-01-07T18:12:03.257</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-23T18:22:21.314</LidTot>
+    <PakketTot>2015-01-07T18:12:03.257</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL38INGB0007250474</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>426</LidNr>
+    <Voornaam>Pim</Voornaam>
+    <Achternaam>Eijpe</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Reigersbek 45</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3434XG</Postcode>
+    <Mobiel>06-41370090</Mobiel>
+    <Telefoon>030-8791677</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2007-05-05T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-10-10T15:33:37.015</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-10-10T15:33:37.015</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL53RABO0331065339</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>jaspereijpe@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel>06-41370090</Ouder1_Mobiel>
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>305</LidNr>
+    <Voornaam>Darrel</Voornaam>
+    <Achternaam>Esterik</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Lavendelhof 14</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3434XS</Postcode>
+    <Mobiel>06-29439954</Mobiel>
+    <Telefoon>030-6066283</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1985-09-04T00:00:00</GeboorteDatum>
+    <BondsNr>3905885</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>dvestk85@live.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-02-09T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL18ABNA0554385694</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>74</LidNr>
+    <Voornaam>Jan</Voornaam>
+    <Achternaam>Etten</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Pr. Dr. Hesselaan 39</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431CE</Postcode>
+    <Mobiel />
+    <Telefoon>030-6000177</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1953-10-18T00:00:00</GeboorteDatum>
+    <BondsNr>3246281</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>jan.vanetten@live.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1998-07-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>13</LidNr>
+    <Voornaam>Wim</Voornaam>
+    <Achternaam>Fassotte</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Serenadelaan 4</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438TC</Postcode>
+    <Mobiel />
+    <Telefoon>030-6039773</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1938-01-24T00:00:00</GeboorteDatum>
+    <BondsNr>2291314</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>wim.fassotte@hetnet.nl</Email1>
+    <Email2 />
+    <LidType>V</LidType>
+    <LidVanaf>1997-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL04INGB0000587283</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>374</LidNr>
+    <Voornaam>Mitch</Voornaam>
+    <Achternaam>Fokkenrood</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Kasteeldrift 29</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436TL</Postcode>
+    <Mobiel>06-13714287</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1998-11-10T00:00:00</GeboorteDatum>
+    <BondsNr>4042088</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>mitchfcutrechtjsv@live.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-07-08T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL27RABO0394371208</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>marinatemming@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel>06-24299425</Ouder1_Mobiel>
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>423</LidNr>
+    <Voornaam>Mark</Voornaam>
+    <Achternaam>Franken</Achternaam>
+    <Tussenvoegsel />
+    <Adres>De Vlouw 4</Adres>
+    <Woonplaats>Delft</Woonplaats>
+    <Postcode>2611EX</Postcode>
+    <Mobiel>06-24436862</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1983-01-11T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>markfranken@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-09-28T20:24:20.088</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-09-28T20:24:20.088</PakketTot>
+    <Medisch>Vanaf 1 jan 2014 in buitenland. Dan geen contributiie</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL75RABO0351147144</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>202</LidNr>
+    <Voornaam>Henno</Voornaam>
+    <Achternaam>Frericks</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Prof. Dr. Hesselaan 25</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431CD</Postcode>
+    <Mobiel>06-44242956</Mobiel>
+    <Telefoon>030-6031703</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1994-08-10T00:00:00</GeboorteDatum>
+    <BondsNr>3707368</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>henno.frericks@telfort.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2004-05-16T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-10-21T19:09:46</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL27INGB0004169176</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>382</LidNr>
+    <Voornaam>Youri</Voornaam>
+    <Achternaam>Geijtenbeek</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Postwagendrift 17</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436AZ</Postcode>
+    <Mobiel>0641450913</Mobiel>
+    <Telefoon>06-42216751</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-06-09T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>wilmavanschaik@yahoo.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-09-20T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T16:04:39</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL63INGB0007488741</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>edgeijtenbeek@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>385</LidNr>
+    <Voornaam>Joris</Voornaam>
+    <Achternaam>Giessen</Achternaam>
+    <Tussenvoegsel>van de</Tussenvoegsel>
+    <Adres>Tuinensingel 14</Adres>
+    <Woonplaats>IJSSELSTEIN</Woonplaats>
+    <Postcode>3404AW</Postcode>
+    <Mobiel>06-23399135</Mobiel>
+    <Telefoon>030-6874358</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1999-06-21T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>joris.giessen@hotmail.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-10-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-08-12T22:17:59.369</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>Knieblessure</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL80INGB0663567432</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>jacaja@hetnet.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>419</LidNr>
+    <Voornaam>Joeri</Voornaam>
+    <Achternaam>Goessen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Willem Walravenhove 40</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437ZK</Postcode>
+    <Mobiel>06-14640001</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1976-12-19T00:00:00</GeboorteDatum>
+    <BondsNr>2805202</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>aiveejoh@ziggo.nl</Email1>
+    <Email2>jgoessen@gmail.com</Email2>
+    <LidType>N</LidType>
+    <LidVanaf>2014-07-01T16:10:40</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-05-16T16:10:40.298</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL52RABO0147617987</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>373</LidNr>
+    <Voornaam>Bert</Voornaam>
+    <Achternaam>Gozems</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Gerbrandypark 25</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437JW</Postcode>
+    <Mobiel>-</Mobiel>
+    <Telefoon>030-6063414</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1956-06-18T00:00:00</GeboorteDatum>
+    <BondsNr>4039572</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>gozems79@ziggo.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-07-08T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL64ABNA0483026719</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>108</LidNr>
+    <Voornaam>Daniël</Voornaam>
+    <Achternaam>Grimmelikhuijzen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Wielewaal 34</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3435AR</Postcode>
+    <Mobiel />
+    <Telefoon>030-6049620</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1986-10-18T00:00:00</GeboorteDatum>
+    <BondsNr>3366706</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>danielgjg@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1999-12-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL55INGB0004393421</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>14</LidNr>
+    <Voornaam>Rob</Voornaam>
+    <Achternaam>Groenen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Judithsgaarde 3</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436RG</Postcode>
+    <Mobiel />
+    <Telefoon>030-6035634</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1951-06-22T00:00:00</GeboorteDatum>
+    <BondsNr>1060744</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>rac.groenen@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1978-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL81INGB0001933906</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>321</LidNr>
+    <Voornaam>Cor</Voornaam>
+    <Achternaam>Grondhuis</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Doctor Schaepmanstraat 35</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438AW</Postcode>
+    <Mobiel>06-27054311</Mobiel>
+    <Telefoon>030-6032635</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1946-02-26T00:00:00</GeboorteDatum>
+    <BondsNr>3078002</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>cor.grondhuis@casema.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-08-18T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL07RABO0364203307</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>257</LidNr>
+    <Voornaam>Rens</Voornaam>
+    <Achternaam>Haas</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Looplantsoen 104</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3523GW</Postcode>
+    <Mobiel />
+    <Telefoon>030-2894980</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1993-06-25T00:00:00</GeboorteDatum>
+    <BondsNr>3739195</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>rensdehaas@telfort.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2007-05-27T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL42INGB0001233395</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>127</LidNr>
+    <Voornaam>Roel</Voornaam>
+    <Achternaam>Hagen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Rembrandthage 472</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437PC</Postcode>
+    <Mobiel />
+    <Telefoon>030-6000059</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1943-10-22T00:00:00</GeboorteDatum>
+    <BondsNr>3452361</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>roel.hagen@sarah-p.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2000-12-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-12-31T18:42:37</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL07INGB0000239775</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>17</LidNr>
+    <Voornaam>Martijn</Voornaam>
+    <Achternaam>Heidema</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Jule Stijnstraat 96</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3543DS</Postcode>
+    <Mobiel />
+    <Telefoon>030-6886040</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1977-10-17T00:00:00</GeboorteDatum>
+    <BondsNr>3541356</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>tafeltennis@malin.nl</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2004-05-21T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL93ABNA0449731820</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>414</LidNr>
+    <Voornaam>Ed</Voornaam>
+    <Achternaam>Heijstek</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Merkelbachlaan 7</Adres>
+    <Woonplaats>IJSSELSTEIN</Woonplaats>
+    <Postcode>3404EX</Postcode>
+    <Mobiel>06-12633590</Mobiel>
+    <Telefoon>030-6872972</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1969-05-31T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>edheijstek@kpnmail.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-12-20T15:38:50.374</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-12-31T20:33:56</LidTot>
+    <PakketTot>2014-12-20T15:38:50.374</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL95ABNA0605809925</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>364</LidNr>
+    <Voornaam>Koen</Voornaam>
+    <Achternaam>Heiningen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Utrechtseweg 18</Adres>
+    <Woonplaats>IJSSELSTEIN UT</Woonplaats>
+    <Postcode>3402PL</Postcode>
+    <Mobiel />
+    <Telefoon>06-15321322</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1999-12-15T00:00:00</GeboorteDatum>
+    <BondsNr>4023327</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-01-22T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-10-21T18:24:27.676</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL39RABO0331078104</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>paulien1967@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>194</LidNr>
+    <Voornaam>Danny</Voornaam>
+    <Achternaam>Hendriks</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Zwaardenburg 1</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437RH</Postcode>
+    <Mobiel />
+    <Telefoon>030-6030000</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1969-03-31T00:00:00</GeboorteDatum>
+    <BondsNr>2880969</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>danmir.henheu@planet.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2004-01-17T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL49INGB0004520308</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>396</LidNr>
+    <Voornaam>Ruben</Voornaam>
+    <Achternaam>Hengst</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Nedereindseweg 219</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438AC</Postcode>
+    <Mobiel>06-12912492</Mobiel>
+    <Telefoon>030-6033403</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-08-25T00:00:00</GeboorteDatum>
+    <BondsNr>4062800</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>rubenhengst@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-12-20T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-01-01T00:00:00</PakketTot>
+    <Medisch>4062800</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL47INGB0006065748</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>377</LidNr>
+    <Voornaam>Eric</Voornaam>
+    <Achternaam>Holtman</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Bankstede 26</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431HN</Postcode>
+    <Mobiel>06-36115168</Mobiel>
+    <Telefoon>030-6037733</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1955-03-25T00:00:00</GeboorteDatum>
+    <BondsNr>3945283</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>holtmanpost_memo@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-07-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL57INGB0003609043</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>54</LidNr>
+    <Voornaam>Daam</Voornaam>
+    <Achternaam>Hoogendijk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Hermelijnweide 9</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437TV</Postcode>
+    <Mobiel />
+    <Telefoon>030-6048091</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1984-11-15T00:00:00</GeboorteDatum>
+    <BondsNr>3197741</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>daam@insension.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1997-08-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL36INGB0008081897</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>184</LidNr>
+    <Voornaam>Henny</Voornaam>
+    <Achternaam>Horssen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Gerrit Achterberghove 2</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437ZE</Postcode>
+    <Mobiel />
+    <Telefoon>030-6047521</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1963-11-04T00:00:00</GeboorteDatum>
+    <BondsNr>2572370</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>henny.vanhorssen@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2003-01-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-12-31T18:27:12</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL49ABNA0984216871</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>371</LidNr>
+    <Voornaam>Vivianne</Voornaam>
+    <Achternaam>Horssen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Gerrit Achterberghove 2</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437ZE</Postcode>
+    <Mobiel>06-46024067</Mobiel>
+    <Telefoon>0306047521</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2004-12-06T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>vivianne.vanhorssen@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-02-07T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-12-31T18:29:15</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL49ABNA0984216871</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>henny.vanhorssen@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>219</LidNr>
+    <Voornaam>Jan Willem</Voornaam>
+    <Achternaam>Jansen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Aart van der Leeuwlaan 33</Adres>
+    <Woonplaats>DE MEERN</Woonplaats>
+    <Postcode>3454LB</Postcode>
+    <Mobiel />
+    <Telefoon>06-42310234</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1976-12-18T00:00:00</GeboorteDatum>
+    <BondsNr>3050737</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>jwjansen@mch.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2005-08-23T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL87INGB0006447790</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>220</LidNr>
+    <Voornaam>John</Voornaam>
+    <Achternaam>Jansen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Schaepmanstraat 14</Adres>
+    <Woonplaats>BENSCHOP</Woonplaats>
+    <Postcode>3404HT</Postcode>
+    <Mobiel>06-42310234</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1974-07-29T00:00:00</GeboorteDatum>
+    <BondsNr>3078175</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>jjansen@besix.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2005-08-23T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL34RABO0106881221</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>258</LidNr>
+    <Voornaam>Roy</Voornaam>
+    <Achternaam>Jansen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Opaalweg 17</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3523RJ</Postcode>
+    <Mobiel>06-13849102</Mobiel>
+    <Telefoon>030-2511394</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1991-05-15T00:00:00</GeboorteDatum>
+    <BondsNr>3513955</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>royjansen1@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2007-06-04T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T15:05:54</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL84INGB0009691718</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>tlieverse@wanadoo.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>247</LidNr>
+    <Voornaam>Deborah</Voornaam>
+    <Achternaam>Jekel</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Diligencedrift 15</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436AW</Postcode>
+    <Mobiel />
+    <Telefoon>030-2802578</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1995-12-05T00:00:00</GeboorteDatum>
+    <BondsNr>3815137</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>gewoon-deborah@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2007-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL72INGB0003486844</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>307</LidNr>
+    <Voornaam>Gino</Voornaam>
+    <Achternaam>Kader</Achternaam>
+    <Tussenvoegsel />
+    <Adres>P.W. Alexanderdijk 75</Adres>
+    <Woonplaats>IJSSELSTEIN UT</Woonplaats>
+    <Postcode>3402PK</Postcode>
+    <Mobiel>06-45306056</Mobiel>
+    <Telefoon>030-2900748</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-10-23T00:00:00</GeboorteDatum>
+    <BondsNr>3926352</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-03-03T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>06-41767376</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL44ASNB0708124135</IBAN>
+    <BIC>ASNBNL21</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>kader2@kabelfoon.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>23</LidNr>
+    <Voornaam>Wim</Voornaam>
+    <Achternaam>Kielen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Rembrandthage 420</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437PC</Postcode>
+    <Mobiel>06-52676140</Mobiel>
+    <Telefoon>030-6013611</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1966-03-17T00:00:00</GeboorteDatum>
+    <BondsNr>3198048</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>wim@kielen.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1997-03-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>true</Gemerkt>
+    <IBAN>NL62RABO0381849430</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>true</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>411</LidNr>
+    <Voornaam>Sven</Voornaam>
+    <Achternaam>Klein Gunnewiek</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Anne de Vrieshove 11</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437ZA</Postcode>
+    <Mobiel>06-40564564</Mobiel>
+    <Telefoon>030-2674904</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2005-08-11T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-11-10T19:52:38.048</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-11-10T19:52:38.048</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL36RABO0307100340</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>kgvi@casema.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel>06-40564564</Ouder1_Mobiel>
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>222</LidNr>
+    <Voornaam>Suzanne</Voornaam>
+    <Achternaam>Kreuger</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Zilverfazant 7</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3435SK</Postcode>
+    <Mobiel>06-42248065</Mobiel>
+    <Telefoon>030-6041386</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1990-03-22T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>susannekreuger@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2005-09-14T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T15:23:05</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>403</LidNr>
+    <Voornaam>Tommy</Voornaam>
+    <Achternaam>Kruijf</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Kamperveste 46</Adres>
+    <Woonplaats>Nieuwegein</Woonplaats>
+    <Postcode>3432BD</Postcode>
+    <Mobiel>06-28637181</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2001-05-08T00:00:00</GeboorteDatum>
+    <BondsNr>4038788</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-08-12T22:53:05.499</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-08-12T22:53:05.499</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>U</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr>53158158</U_PasNr>
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam>Jolande</Ouder1_Naam>
+    <Ouder1_Email1>jolandedekruijf@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>421</LidNr>
+    <Voornaam>Estia</Voornaam>
+    <Achternaam>Kruyswijk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Agnesgaarde 4</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436RJ</Postcode>
+    <Mobiel />
+    <Telefoon>030-6038750</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>2006-04-29T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-07-02T20:09:59.227</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-07-02T20:09:59.227</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL52RABO0331080974</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam>Bas</Ouder1_Naam>
+    <Ouder1_Email1>bas.kruyswijk1@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>425</LidNr>
+    <Voornaam>Juul</Voornaam>
+    <Achternaam>Lamers</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Kerkuil 6</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3435GL</Postcode>
+    <Mobiel>06-25038727</Mobiel>
+    <Telefoon />
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>2004-10-11T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-10-10T15:27:47.201</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-10-10T15:27:47.201</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL97RABO0180503669</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>tbslamers@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>232</LidNr>
+    <Voornaam>Martin</Voornaam>
+    <Achternaam>Lindenaar</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Anne Franklaan 18</Adres>
+    <Woonplaats>BILTHOVEN</Woonplaats>
+    <Postcode>3721PK</Postcode>
+    <Mobiel>06-23450115</Mobiel>
+    <Telefoon>030-2286355</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1953-05-14T00:00:00</GeboorteDatum>
+    <BondsNr>2951613</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>martinlindenaar@kpnmail.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-12-21T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL75INGB0002535608</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>141</LidNr>
+    <Voornaam>Herman</Voornaam>
+    <Achternaam>Lissenberg</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Keizersmantelhof 14</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3544VJ</Postcode>
+    <Mobiel />
+    <Telefoon>030-6031078</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1948-02-14T00:00:00</GeboorteDatum>
+    <BondsNr>3453799</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>-</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2001-06-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-07-01T19:19:22</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL69INGB0003949491</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>290</LidNr>
+    <Voornaam>Mariska</Voornaam>
+    <Achternaam>Loon</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Gravin Catharinalaan 46</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3434DE</Postcode>
+    <Mobiel>06-40634595</Mobiel>
+    <Telefoon>030-6061986</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1992-11-08T00:00:00</GeboorteDatum>
+    <BondsNr>3598206</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>gwn_marisz@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2008-08-29T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL14INGB0004597956</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>390</LidNr>
+    <Voornaam>Marco</Voornaam>
+    <Achternaam>Mansi</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Derde Westerparklaan 335</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3544NH</Postcode>
+    <Mobiel />
+    <Telefoon>06-29210755</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1980-07-28T00:00:00</GeboorteDatum>
+    <BondsNr>3861853</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>marco@mansi.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-10-25T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL15RABO0137264194</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>166</LidNr>
+    <Voornaam>Peter</Voornaam>
+    <Achternaam>Marijn</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Prof. Dr. Bakkerlaan 12</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431EK</Postcode>
+    <Mobiel />
+    <Telefoon>030-6032384</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1990-06-29T00:00:00</GeboorteDatum>
+    <BondsNr>3512349</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>peter_marijn@hotmail.com</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2002-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL23INGB0000175564</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>378</LidNr>
+    <Voornaam>Steije</Voornaam>
+    <Achternaam>Maurer</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Poortenaarlaan 96</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431RJ</Postcode>
+    <Mobiel>06-12010859</Mobiel>
+    <Telefoon>030-2442527</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2004-06-21T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>steijemaurer@kpnmail.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-09-03T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-08-25T20:05:00.731</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL79RABO0105416487</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>info@do-re-mini.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>53</LidNr>
+    <Voornaam>Ton</Voornaam>
+    <Achternaam>Michies</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Rembrandthage 294</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437PB</Postcode>
+    <Mobiel />
+    <Telefoon>030-6040457</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1949-10-16T00:00:00</GeboorteDatum>
+    <BondsNr>3197678</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>t.michies@ziggo.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1997-09-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>360</LidNr>
+    <Voornaam>Semmi</Voornaam>
+    <Achternaam>Mohamed Kamel</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Televisiebaan 71</Adres>
+    <Woonplaats>IJSSELSTEIN UT</Woonplaats>
+    <Postcode>3402VB</Postcode>
+    <Mobiel>06-59191442</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1999-02-22T00:00:00</GeboorteDatum>
+    <BondsNr>4016817</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2011-09-22T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>U</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr>Y12 46768076</U_PasNr>
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam>Gitte</Ouder1_Naam>
+    <Ouder1_Email1>gitteaboulaila@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel>06-37091878</Ouder1_Mobiel>
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>410</LidNr>
+    <Voornaam>Alex</Voornaam>
+    <Achternaam>Nas</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Middelmonde 67</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3434KT</Postcode>
+    <Mobiel>06-45822591</Mobiel>
+    <Telefoon>030-6066349</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1988-05-22T00:00:00</GeboorteDatum>
+    <BondsNr>3134303</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>alex_denas@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-01-01T19:08:50</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-10-29T19:08:50.446</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL60INGB0008665017</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>427</LidNr>
+    <Voornaam />
+    <Achternaam>Nieuw Lid 427</Achternaam>
+    <Tussenvoegsel />
+    <Adres />
+    <Woonplaats />
+    <Postcode />
+    <Mobiel />
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1900-01-01T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-12-02T10:41:56.585</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-12-02T10:41:56.585</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>324</LidNr>
+    <Voornaam>Erwin</Voornaam>
+    <Achternaam>Nieuwendijk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Moerashoeve 11</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438LE</Postcode>
+    <Mobiel>06-16887649</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1962-11-04T00:00:00</GeboorteDatum>
+    <BondsNr>3989554</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>nieuwendijkenator@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-10-02T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL04INGB0677868928</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>254</LidNr>
+    <Voornaam>Patrick</Voornaam>
+    <Achternaam>Nieuwendijk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Rembrandthage 61</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438JJ</Postcode>
+    <Mobiel />
+    <Telefoon>030-6090871</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-03-03T00:00:00</GeboorteDatum>
+    <BondsNr>3835925</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>nieuwendijkenator@gmail.com</Email1>
+    <Email2>patrick.nieuwendijk.58@facebook.com</Email2>
+    <LidType>N</LidType>
+    <LidVanaf>2007-04-09T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL48INGB0000883020</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>A</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>lucy.nieuwendijk@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen>D</LicentieSen>
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>157</LidNr>
+    <Voornaam>Arie</Voornaam>
+    <Achternaam>Nieuwkerk</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Oortjesburg 84</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437SX</Postcode>
+    <Mobiel />
+    <Telefoon>030-6040172</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1939-12-28T00:00:00</GeboorteDatum>
+    <BondsNr>2707640</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>avannieuwkerk@ziggo.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2002-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>32</LidNr>
+    <Voornaam>Teun</Voornaam>
+    <Achternaam>Nonhof</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Bombardonlaan 21</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438RN</Postcode>
+    <Mobiel />
+    <Telefoon>030-6046036</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1940-05-31T00:00:00</GeboorteDatum>
+    <BondsNr>2850972</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1993-03-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>33</LidNr>
+    <Voornaam>Ruud</Voornaam>
+    <Achternaam>Oosthoek</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Bodenheimlaan 2</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431RB</Postcode>
+    <Mobiel />
+    <Telefoon>030-6039398</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1956-12-03T00:00:00</GeboorteDatum>
+    <BondsNr>2618184</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>ruud.oosthoek@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1990-09-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL21INGB0001659603</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>140</LidNr>
+    <Voornaam>Paul</Voornaam>
+    <Achternaam>Oostveen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Ossewagendrift 13</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436AE</Postcode>
+    <Mobiel>06-36126101</Mobiel>
+    <Telefoon>030-6040992</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1989-11-22T00:00:00</GeboorteDatum>
+    <BondsNr>3452400</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>paul_oostveen@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2001-04-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL39INGB0005172716</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>418</LidNr>
+    <Voornaam>Jason</Voornaam>
+    <Achternaam>Otterlo</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Hogerhoeve 33</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438LJ</Postcode>
+    <Mobiel />
+    <Telefoon>030-2946941</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2004-10-04T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>anne.van.otterlo@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-04-16T18:25:08</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-04-28T18:25:08.048</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL48INGB0003381352</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam>Anne van Otterlo</Ouder1_Naam>
+    <Ouder1_Email1>andrea.huck@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel>06-12994804</Ouder1_Mobiel>
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>406</LidNr>
+    <Voornaam>Finn</Voornaam>
+    <Achternaam>Overbeek</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Stijn Streuvelshove 53</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437BC</Postcode>
+    <Mobiel>06-27474928</Mobiel>
+    <Telefoon>030-6054808</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2006-10-11T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-09-29T20:23:34.564</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-09-29T20:23:34.564</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL48RABO0381016064</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam>Kim Hendriks</Ouder1_Naam>
+    <Ouder1_Email1>kim.hendriks@casema.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>413</LidNr>
+    <Voornaam>Bas</Voornaam>
+    <Achternaam>Papenhuijzen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Meindert Hobbemelaan 17</Adres>
+    <Woonplaats>IJSSELSTEIN</Woonplaats>
+    <Postcode>3401NA</Postcode>
+    <Mobiel>06-51188120</Mobiel>
+    <Telefoon>030-6880021</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-07-22T00:00:00</GeboorteDatum>
+    <BondsNr>4095099</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-12-08T20:09:23.24</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-12-08T20:09:23.24</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL53INGB0005096804</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>papenhuijzen@significant.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>208</LidNr>
+    <Voornaam>Eli</Voornaam>
+    <Achternaam>Patz</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Kameraarsweide 3</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437CB</Postcode>
+    <Mobiel />
+    <Telefoon>030-6032256</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1934-11-08T00:00:00</GeboorteDatum>
+    <BondsNr>3723144</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>eliaspatz@casema.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2005-02-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL83INGB0000398360</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>376</LidNr>
+    <Voornaam>Douwe</Voornaam>
+    <Achternaam>Peper</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Nassaulaan 3 a</Adres>
+    <Woonplaats>DOORN</Woonplaats>
+    <Postcode>3941EC</Postcode>
+    <Mobiel>06-42438778</Mobiel>
+    <Telefoon>0343-416890</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-02-26T00:00:00</GeboorteDatum>
+    <BondsNr>4002428</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-07-08T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL46ABNA0430839782</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>B</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>m.dehont@planet.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>400</LidNr>
+    <Voornaam>Richard</Voornaam>
+    <Achternaam>Pijl</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Lemmingweide 1</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437TS</Postcode>
+    <Mobiel />
+    <Telefoon>06-27025529</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1958-02-06T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>halter@online.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-01-27T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL30INGB0003786166</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>362</LidNr>
+    <Voornaam>Nimrod</Voornaam>
+    <Achternaam>Rakké</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Croesestraat 43 b</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3522AB</Postcode>
+    <Mobiel>06-25274563</Mobiel>
+    <Telefoon>030-2888753</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1996-09-15T00:00:00</GeboorteDatum>
+    <BondsNr>3745950</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>nimrodrak@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2011-09-15T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-12-31T12:24:23</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL24RABO0367508761</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>B</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>a.rakke@eduwise.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>126</LidNr>
+    <Voornaam>Alannah</Voornaam>
+    <Achternaam>Roos</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Martinusgaarde 2</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436RD</Postcode>
+    <Mobiel />
+    <Telefoon>030-6048944</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1990-11-12T00:00:00</GeboorteDatum>
+    <BondsNr>3452379</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>roosa_rose@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2000-11-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T09:48:39</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL11INGB0003348941</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>179</LidNr>
+    <Voornaam>Jaap</Voornaam>
+    <Achternaam>Rutten</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Martinusgaarde 18</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436RE</Postcode>
+    <Mobiel />
+    <Telefoon>030-6053837</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1991-08-23T00:00:00</GeboorteDatum>
+    <BondsNr>3574341</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>jaaprutten@planet.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2002-09-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL57INGB0008529853</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>399</LidNr>
+    <Voornaam>Mounir</Voornaam>
+    <Achternaam>Sahtout</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Herteweide 51</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437EN</Postcode>
+    <Mobiel />
+    <Telefoon>06-57041504</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2003-11-09T00:00:00</GeboorteDatum>
+    <BondsNr>4062795</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>a.elfalah@hotmail.com</Email1>
+    <Email2 />
+    <LidType>P</LidType>
+    <LidVanaf>2013-01-27T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-01-01T18:28:38</LidTot>
+    <PakketTot>2014-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL72INGB0005253796</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>true</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>354</LidNr>
+    <Voornaam>Hidde</Voornaam>
+    <Achternaam>Schinkel</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Mandenmaker 42</Adres>
+    <Woonplaats>IJSSELSTEIN UT</Woonplaats>
+    <Postcode>3401TG</Postcode>
+    <Mobiel>06-13053807</Mobiel>
+    <Telefoon>030-6872442</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-04-20T00:00:00</GeboorteDatum>
+    <BondsNr>3997426</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>hans.schinkel@tiscali.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2011-04-25T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL24RABO0159275660</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>318</LidNr>
+    <Voornaam>Jaxon</Voornaam>
+    <Achternaam>Schmitt</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Bieslookgaarde 3</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436HA</Postcode>
+    <Mobiel />
+    <Telefoon>030-6040235</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1997-09-18T00:00:00</GeboorteDatum>
+    <BondsNr>3923299</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>jaxon@us2u.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-06-14T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-01-01T18:16:18</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL54RABO0142021342</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>michel@us2u.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>true</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>317</LidNr>
+    <Voornaam>Youri</Voornaam>
+    <Achternaam>Schmitt</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Bieslookgaarde 3</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436HA</Postcode>
+    <Mobiel />
+    <Telefoon>030-6040235</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1999-10-15T00:00:00</GeboorteDatum>
+    <BondsNr>3923281</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>youri@us2u.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2009-06-14T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-01-01T18:16:40</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL54RABO0142021342</IBAN>
+    <BIC>RABONL2U</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>michel@us2u.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>true</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>270</LidNr>
+    <Voornaam>Rob</Voornaam>
+    <Achternaam>Seldenrijk</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Multatulistraat 73</Adres>
+    <Woonplaats>VLEUTEN</Woonplaats>
+    <Postcode>3415AR</Postcode>
+    <Mobiel>06-41694038</Mobiel>
+    <Telefoon>030-6772223</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1996-05-27T00:00:00</GeboorteDatum>
+    <BondsNr>3620833</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>robseldenrijk@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2007-12-04T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL91INGB0004169673</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>A</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>ruthenmarjo@casema.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>422</LidNr>
+    <Voornaam>Chris</Voornaam>
+    <Achternaam>Snijders</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Mozartlaan 26</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3533GB</Postcode>
+    <Mobiel>06-31003484</Mobiel>
+    <Telefoon>030-2886108</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1967-07-04T00:00:00</GeboorteDatum>
+    <BondsNr>4110807</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>c.c.p.snijders@gmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-09-01T19:33:08</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-09-14T19:33:08.413</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL68INGB0000013928</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>369</LidNr>
+    <Voornaam>John</Voornaam>
+    <Achternaam>Spengen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Valeriaan 53</Adres>
+    <Woonplaats>IJSSELSTEIN UT</Woonplaats>
+    <Postcode>3401LC</Postcode>
+    <Mobiel />
+    <Telefoon>06-26178605</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1978-08-01T00:00:00</GeboorteDatum>
+    <BondsNr>3566699</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>johnvanspengen@hotmail.com</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2012-01-24T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL54ABNA0801977061</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>380</LidNr>
+    <Voornaam>Martijn</Voornaam>
+    <Achternaam>Stokkel</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Joh. Vermeerhage 46</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437NM</Postcode>
+    <Mobiel>06-27456564</Mobiel>
+    <Telefoon>030-6045512</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1987-12-09T00:00:00</GeboorteDatum>
+    <BondsNr>4055358</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>martijn_stokkel@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-09-09T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T22:23:45</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL39INGB0008374201</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>359</LidNr>
+    <Voornaam>Robin</Voornaam>
+    <Achternaam>Strookman</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Johannes Vermeerhage 27</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437NM</Postcode>
+    <Mobiel />
+    <Telefoon>06-48543939</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2003-06-18T00:00:00</GeboorteDatum>
+    <BondsNr>4025531</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>robinstrookman@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2011-09-21T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL83ABNA0984386106</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>jacco@strookmanadvies.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>381</LidNr>
+    <Voornaam>Jaimy</Voornaam>
+    <Achternaam>Sukuti</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Damhertweide 9</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437CE</Postcode>
+    <Mobiel>06-30570674</Mobiel>
+    <Telefoon>030-6032352</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2001-04-21T00:00:00</GeboorteDatum>
+    <BondsNr>4047460</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-09-09T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-05-12T16:17:38.93</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL78ABNA0988022338</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>salihentamara@scarlet.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>407</LidNr>
+    <Voornaam>Jan</Voornaam>
+    <Achternaam>Tuls</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Hofdijk 20</Adres>
+    <Woonplaats>Montfoort</Woonplaats>
+    <Postcode>3417XE</Postcode>
+    <Mobiel>06-14202773</Mobiel>
+    <Telefoon>0348-470363</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1989-09-24T00:00:00</GeboorteDatum>
+    <BondsNr>3540279</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>j.tuls@planet.nl</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2013-10-11T11:52:39.647</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-10-11T11:52:39.647</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL08ABNA0556391543</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>368</LidNr>
+    <Voornaam>Sarah</Voornaam>
+    <Achternaam>Turgut</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Kersegaarde 36</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436GD</Postcode>
+    <Mobiel />
+    <Telefoon>06-24876473</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>2004-04-05T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-01-22T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-08-24T17:54:41.834</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL85ABNA0504006665</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>turgut_m@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>43</LidNr>
+    <Voornaam>John</Voornaam>
+    <Achternaam>Tuyl</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Oosterhoffpark 4</Adres>
+    <Woonplaats>LOPIK</Woonplaats>
+    <Postcode>3411ZL</Postcode>
+    <Mobiel>06-54933499</Mobiel>
+    <Telefoon>0348-554882</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1963-06-22T00:00:00</GeboorteDatum>
+    <BondsNr>2707616</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>john@electronicprintcenter.nl</Email1>
+    <Email2 />
+    <LidType>V</LidType>
+    <LidVanaf>1992-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>44</LidNr>
+    <Voornaam>Reinier</Voornaam>
+    <Achternaam>Uden</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Van Bijnkershoeklaan 78</Adres>
+    <Woonplaats>UTRECHT</Woonplaats>
+    <Postcode>3527XL</Postcode>
+    <Mobiel />
+    <Telefoon>030-2968824</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2024-01-19T00:00:00</GeboorteDatum>
+    <BondsNr>1899355</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>V</LidType>
+    <LidVanaf>1965-01-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2013-08-12T23:20:06.593</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL20INGB0000452553</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>386</LidNr>
+    <Voornaam>Bruce</Voornaam>
+    <Achternaam>Uyleman</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Tilburgdrift 8</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436AT</Postcode>
+    <Mobiel>06-50295037</Mobiel>
+    <Telefoon>030-6039519</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2002-10-02T00:00:00</GeboorteDatum>
+    <BondsNr>4070374</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-10-18T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL17ABNA0534425828</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>paulenvera@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>45</LidNr>
+    <Voornaam>Frits</Voornaam>
+    <Achternaam>Veen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Venkelgaarde 19</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436KT</Postcode>
+    <Mobiel />
+    <Telefoon>030-6043757</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1946-02-24T00:00:00</GeboorteDatum>
+    <BondsNr>2439263</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>f.c.vanveen@planet.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1965-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN />
+    <BIC />
+    <BetaalWijze>R</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>384</LidNr>
+    <Voornaam>Lukas</Voornaam>
+    <Achternaam>Veenstra</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Elisabethgaarde 2</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436RH</Postcode>
+    <Mobiel />
+    <Telefoon>030-2238328</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2002-12-06T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-09-01T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-10-22T13:55:23.117</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL32INGB0007716473</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>leonie.veenstra.vdbreul@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>221</LidNr>
+    <Voornaam>Tom</Voornaam>
+    <Achternaam>Veldhuijzen</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Lunenburg 21</Adres>
+    <Woonplaats>IJSSELSTEIN UT</Woonplaats>
+    <Postcode>3401HT</Postcode>
+    <Mobiel>06-46583212</Mobiel>
+    <Telefoon>030-6873402</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1991-11-04T00:00:00</GeboorteDatum>
+    <BondsNr>3733644</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>tom_veldhuijzen@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2005-09-14T00:00:00</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T20:41:57</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL25INGB0004063482</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>46</LidNr>
+    <Voornaam>Piet</Voornaam>
+    <Achternaam>Verkaik</Achternaam>
+    <Tussenvoegsel />
+    <Adres>H. Kruijderlaan 68</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431BR</Postcode>
+    <Mobiel />
+    <Telefoon>030-6031496</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1940-10-14T00:00:00</GeboorteDatum>
+    <BondsNr>0160240</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>pamaropet@ziggo.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1965-01-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL93INGB0000110187</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>47</LidNr>
+    <Voornaam>Rob</Voornaam>
+    <Achternaam>Verkuijl</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Aidalaan 27</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438VB</Postcode>
+    <Mobiel>06-28974977</Mobiel>
+    <Telefoon>030-6034313</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1953-12-11T00:00:00</GeboorteDatum>
+    <BondsNr>2707624</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>robverkuijl@planet.nl</Email1>
+    <Email2 />
+    <LidType>V</LidType>
+    <LidVanaf>2002-09-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>Contributie vrij voor 2014 in verband met operatie.</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL33ABNA0558831419</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>404</LidNr>
+    <Voornaam>Maarten</Voornaam>
+    <Achternaam>Versloot</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Waterviolier 112</Adres>
+    <Woonplaats>Montfoort</Woonplaats>
+    <Postcode>3417RB</Postcode>
+    <Mobiel>06-57688355</Mobiel>
+    <Telefoon>0348-475238</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1992-01-23T00:00:00</GeboorteDatum>
+    <BondsNr>3638797</BondsNr>
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>maartenversloot@hotmail.com</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2013-08-27T20:26:54.109</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T19:48:04</LidTot>
+    <PakketTot>2014-08-27T20:26:54.109</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL72INGB0004159733</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>412</LidNr>
+    <Voornaam>Amber</Voornaam>
+    <Achternaam>Vink</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Thorbeckepark 28</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3438WC</Postcode>
+    <Mobiel>06-41209778</Mobiel>
+    <Telefoon />
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>2005-08-06T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-09-01T20:01:29</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>2013-12-20T15:43:46.612</LidTot>
+    <PakketTot>2014-12-08T20:01:29.196</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL67INGB0006141533</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>mirvana2@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>416</LidNr>
+    <Voornaam>Yassin</Voornaam>
+    <Achternaam>Visser</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Monitorplein 23</Adres>
+    <Woonplaats>IJSSELSTEIN</Woonplaats>
+    <Postcode>3402EL</Postcode>
+    <Mobiel>06-84447351</Mobiel>
+    <Telefoon />
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2001-02-06T00:00:00</GeboorteDatum>
+    <BondsNr>4095081</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-01-21T20:15:53.087</LidVanaf>
+    <Opgezegd>true</Opgezegd>
+    <LidTot>2014-06-30T19:51:05</LidTot>
+    <PakketTot>2015-01-21T20:15:53.087</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL67INGB0002844988</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam>Fiona Visser</Ouder1_Naam>
+    <Ouder1_Email1>fionavisser38@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>294</LidNr>
+    <Voornaam>Martijn</Voornaam>
+    <Achternaam>Waal</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Melissegaarde 29</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436HZ</Postcode>
+    <Mobiel>06-40874986</Mobiel>
+    <Telefoon>030-6977411</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1996-05-18T00:00:00</GeboorteDatum>
+    <BondsNr>3882972</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>mrjdewaal@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2008-09-28T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch>Naam moeder: Wensing</Medisch>
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL77ABNA0467538786</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>rtmwensing@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>347</LidNr>
+    <Voornaam>Renske</Voornaam>
+    <Achternaam>Waal</Achternaam>
+    <Tussenvoegsel>de</Tussenvoegsel>
+    <Adres>Melissegaarde 29</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3436HZ</Postcode>
+    <Mobiel>06-40874986</Mobiel>
+    <Telefoon>030-6977411</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>2001-12-29T00:00:00</GeboorteDatum>
+    <BondsNr>4077025</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2010-10-12T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL77ABNA0467538786</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>1</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>rtmwensing@hotmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>true</Extra3>
+    <VrijwillgersVasteTaak>true</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>true</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>375</LidNr>
+    <Voornaam>Jasper</Voornaam>
+    <Achternaam>Wannet</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Batiewseweg 35</Adres>
+    <Woonplaats>LOPIKERKAPEL</Woonplaats>
+    <Postcode>3412KX</Postcode>
+    <Mobiel>06-43261291</Mobiel>
+    <Telefoon>0348-553551</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2001-08-26T00:00:00</GeboorteDatum>
+    <BondsNr>4035277</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>j.j.wannet@kpnmail.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2012-07-08T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL39INGB0007029296</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>m.wannet@growconsult.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>357</LidNr>
+    <Voornaam>Robin</Voornaam>
+    <Achternaam>Warringa</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Graaf Leopoldlaan 13</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3434SH</Postcode>
+    <Mobiel>06-21197361</Mobiel>
+    <Telefoon>030-8795595</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1982-08-28T00:00:00</GeboorteDatum>
+    <BondsNr>3997743</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>robin@vanlochem.nl</Email1>
+    <Email2>robinwarringa@hotmail.com</Email2>
+    <LidType>N</LidType>
+    <LidVanaf>2011-08-30T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL20SNSB0821473204</IBAN>
+    <BIC>SNSBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>420</LidNr>
+    <Voornaam>Milo</Voornaam>
+    <Achternaam>Wierst</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Hans Andreusstraat 35</Adres>
+    <Woonplaats>Almere</Woonplaats>
+    <Postcode>1321SK</Postcode>
+    <Mobiel>06-47115221</Mobiel>
+    <Telefoon>036-5242052</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>2000-07-14T00:00:00</GeboorteDatum>
+    <BondsNr>3961297</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>milovanwierst@gmail.com</Email1>
+    <Email2 />
+    <LidType>Z</LidType>
+    <LidVanaf>2014-05-26T18:44:12.056</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-05-26T18:44:12.056</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL59ABNA0986736848</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>alettekramer@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2>theovanwierst@gmail.com</Ouder1_Email2>
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>115</LidNr>
+    <Voornaam>Alex</Voornaam>
+    <Achternaam>Witteman</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Anne de Vrieshove 40</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3437ZB</Postcode>
+    <Mobiel />
+    <Telefoon>030-6040328</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1988-01-15T00:00:00</GeboorteDatum>
+    <BondsNr>3383017</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>alexwitteman162@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>1999-03-01T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL30INGB0008635293</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>231</LidNr>
+    <Voornaam>Alan</Voornaam>
+    <Achternaam>Wouterse</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Wenckebachplantsoen 161</Adres>
+    <Woonplaats>NIEUWEGEIN</Woonplaats>
+    <Postcode>3431TD</Postcode>
+    <Mobiel />
+    <Telefoon>030-6033029</Telefoon>
+    <Geslacht>M</Geslacht>
+    <GeboorteDatum>1978-12-29T00:00:00</GeboorteDatum>
+    <BondsNr>3774080</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1>a.wouterse@casema.nl</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2006-06-15T00:00:00</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>1900-01-01T00:00:00</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL36INGB0003895862</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1 />
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>405</LidNr>
+    <Voornaam>Sharon</Voornaam>
+    <Achternaam>Zelderen</Achternaam>
+    <Tussenvoegsel>van</Tussenvoegsel>
+    <Adres>Lopikerweg Oost 100A</Adres>
+    <Woonplaats>Lopik</Woonplaats>
+    <Postcode>3411LW</Postcode>
+    <Mobiel>06-23876385</Mobiel>
+    <Telefoon>0348-551990</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>1998-02-27T00:00:00</GeboorteDatum>
+    <BondsNr>3755002</BondsNr>
+    <LidBond>true</LidBond>
+    <CompGerechtigd>true</CompGerechtigd>
+    <Email1>sharonvanzelderen@hotmail.com</Email1>
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2013-09-16T17:56:18.61</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2014-09-16T17:56:18.61</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL53INGB0003709510</IBAN>
+    <BIC>INGBNL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun>B</LicentieJun>
+    <ToernooiSpeler>2</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>famvzelderen@hetnet.nl</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel />
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+  <Lid>
+    <Dirty>false</Dirty>
+    <LidNr>417</LidNr>
+    <Voornaam>Joy</Voornaam>
+    <Achternaam>Zhou2</Achternaam>
+    <Tussenvoegsel />
+    <Adres>Batenborch 13</Adres>
+    <Woonplaats>VIANEN</Woonplaats>
+    <Postcode>4132HS</Postcode>
+    <Mobiel />
+    <Telefoon>0347-778411</Telefoon>
+    <Geslacht>V</Geslacht>
+    <GeboorteDatum>2006-08-17T00:00:00</GeboorteDatum>
+    <BondsNr />
+    <LidBond>false</LidBond>
+    <CompGerechtigd>false</CompGerechtigd>
+    <Email1 />
+    <Email2 />
+    <LidType>N</LidType>
+    <LidVanaf>2014-01-31T15:17:07.884</LidVanaf>
+    <Opgezegd>false</Opgezegd>
+    <LidTot>1900-01-01T00:00:00</LidTot>
+    <PakketTot>2015-01-31T15:17:07.884</PakketTot>
+    <Medisch />
+    <Gemerkt>false</Gemerkt>
+    <IBAN>NL05ABNA0557070015</IBAN>
+    <BIC>ABNANL2A</BIC>
+    <BetaalWijze>I</BetaalWijze>
+    <VastBedrag>0.0000</VastBedrag>
+    <Korting>0.0000</Korting>
+    <U_PasNr />
+    <LicentieJun />
+    <ToernooiSpeler>0</ToernooiSpeler>
+    <Ouder1_Naam />
+    <Ouder1_Email1>lemaitremb@gmail.com</Ouder1_Email1>
+    <Ouder1_Email2 />
+    <Ouder1_Mobiel>06-14704762</Ouder1_Mobiel>
+    <Ouder1_Telefoon />
+    <Ouder2_Naam />
+    <Ouder2_Email1 />
+    <Ouder2_Email2 />
+    <Ouder2_Mobiel />
+    <Ouder2_Telefoon />
+    <VrijwillgersRegelingIsVanToepassing>false</VrijwillgersRegelingIsVanToepassing>
+    <Extra3>false</Extra3>
+    <VrijwillgersVasteTaak>false</VrijwillgersVasteTaak>
+    <VrijwillgersAfgekocht>false</VrijwillgersAfgekocht>
+    <VrijwillgersToelichting />
+    <LicentieSen />
+    <ExtraD />
+    <ExtraE />
+  </Lid>
+</LedenLijst>

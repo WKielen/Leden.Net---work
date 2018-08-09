@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<BetalingenLijst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>1</BetalingsSeqNr>
+    <IBAN_Creditor>NL75INGB0002535608</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>3</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving />
+    <EndToEndId>4211111111111111</EndToEndId>
+    <AanmaakDatum>2014-12-24T13:27:58.453</AanmaakDatum>
+    <VerstuurdDatum>2015-01-06T15:42:02.165</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2014-12-05T14:41:04</GewensteVerwerkingsDatum>
+    <Verstuurd>false</Verstuurd>
+    <Crediteur>Lindenaar, Martin</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT005</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>2</BetalingsSeqNr>
+    <IBAN_Creditor>NL75INGB0002535608</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>1</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>1</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2014-12-29T23:20:27.011</AanmaakDatum>
+    <VerstuurdDatum>2015-01-06T15:42:02.167</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2015-01-06T14:41:04.188</GewensteVerwerkingsDatum>
+    <Verstuurd>false</Verstuurd>
+    <Crediteur>Lindenaar, Martin</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT005</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>3</BetalingsSeqNr>
+    <IBAN_Creditor>NL77ABNA0467538786</IBAN_Creditor>
+    <BIC_Creditor>ABNANL2A</BIC_Creditor>
+    <TotaalBedrag>2</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>2</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2014-12-29T23:20:37.2</AanmaakDatum>
+    <VerstuurdDatum>2015-01-06T15:42:02.167</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2015-01-06T14:41:04.188</GewensteVerwerkingsDatum>
+    <Verstuurd>false</Verstuurd>
+    <Crediteur>Waal, Martijn de</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT005</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>4</BetalingsSeqNr>
+    <IBAN_Creditor>NL75INGB0002535608</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>6</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>3</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2014-12-29T23:21:06.709</AanmaakDatum>
+    <VerstuurdDatum>2015-01-06T15:42:02.166</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2014-12-31T14:41:04</GewensteVerwerkingsDatum>
+    <Verstuurd>false</Verstuurd>
+    <Crediteur>Lindenaar, Martin</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT005</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+</BetalingenLijst>

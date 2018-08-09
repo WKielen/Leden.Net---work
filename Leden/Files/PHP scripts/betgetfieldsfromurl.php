@@ -1,0 +1,19 @@
+<?php
+$BetalingsSeqNr           = $_POST['BetalingsSeqNr'];
+$IBAN_Creditor            = $_POST['IBAN_Creditor'];
+$BIC_Creditor             = $_POST['BIC_Creditor'];
+$Omschrijving             = $_POST['Omschrijving'];
+$EndToEndId               = $_POST['EndToEndId'];
+$TotaalBedrag             = $_POST['TotaalBedrag'];
+$TypeBetaling             = $_POST['TypeBetaling'];
+$AanmaakDatum             = $_POST['AanmaakDatum'];
+$Verstuurd                = $_POST['Verstuurd'];
+$VerstuurdDatum           = $_POST['VerstuurdDatum'];
+$GewensteVerwerkingsDatum = $_POST['GewensteVerwerkingsDatum'];
+$Crediteur                = $_POST['Crediteur'];
+$Extra1                   = $_POST['Extra1'];
+$Extra2                   = $_POST['Extra2'];
+$Extra3                  = $_POST['Extra3'];
+$ExtraA                  = $_POST['ExtraA'];
+$ExtraB                  = $_POST['ExtraB'];
+$ExtraC                  = $_POST['ExtraC'];

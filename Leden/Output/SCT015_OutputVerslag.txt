@@ -1,0 +1,16 @@
+Betalingverslag: C:\Temp\Visual studio projects\Leden.Net - work\Leden\Output\SCT015.xml
+
+Batch Naam: Payments 15 24-12-2014 0:00:00
+Aantal: 2  Bedrag: € 5,00
+
+Grimmelikhuijzen, Daniël      24-12-2014     € 2,00      test3                         
+Lindenaar, Martin             24-12-2014     € 3,00      4211111111111111              
+
+
+Batch Naam: Payments 15 24-12-2014 0:00:00
+Aantal: 1  Bedrag: € 1,00
+
+Grimmelikhuijzen, Daniël      25-12-2014     € 1,00      Op de 25ste                   
+
+
+

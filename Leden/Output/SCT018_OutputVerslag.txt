@@ -1,0 +1,174 @@
+Incassoverslag: C:\Temp\Visual studio projects\Leden.Net - work\Leden\Output\SCT018.xml
+
+Batch Naam: Batch FRST 12-2-2015 9:47:39
+Aantal: 7  Bedrag: € 201,00
+
+412  Vink, Amber                   € 10,00     Contributie VJ 2015 Amber Vink
+428  Poppelen, Rick van            € 20,00     Contributie VJ 2015 Rick van Poppelen
+430  Oostveen, Jesse               € 111,00    Contributie VJ 2015 Jesse Oostveen
+431  Binsbergen, Seppe van         € 10,00     Contributie VJ 2015 Seppe van Binsbergen
+432  Linde, Tycho van der          € 20,00     Clubshirt                     
+433  Reitsma, Daniel               € 10,00     Contributie VJ 2015 Daniel Reitsma
+434  Tol, Daan                     € 20,00     Contributie VJ 2015 Daan Tol  
+
+
+Batch Naam: Batch RCUR 12-2-2015 9:47:39
+Aantal: 155  Bedrag: € 8495,00
+
+10   Dubbers, Sandra               € 111,00    Contributie VJ 2015 Sandra Dubbers
+10   Dubbers, Sandra               € 93,00     Contributie VJ 2015 2 Sandra Dubbers
+14   Groenen, Rob                  € 111,00    Contributie VJ 2015 Rob Groenen
+14   Groenen, Rob                  € 93,00     Contributie VJ 2015 2 Rob Groenen
+17   Heidema, Martijn              € 46,00     Contributie VJ 2015 Martijn Heidema
+17   Heidema, Martijn              € 37,00     Contributie VJ 2015 2 Martijn Heidema
+23   Kielen, Wim                   € 111,00    Contributie VJ 2015 Wim Kielen
+23   Kielen, Wim                   € 93,00     Contributie VJ 2015 2 Wim Kielen
+33   Oosthoek, Ruud                € 111,00    Contributie VJ 2015 Ruud Oosthoek
+33   Oosthoek, Ruud                € 93,00     Contributie VJ 2015 2 Ruud Oosthoek
+46   Verkaik, Piet                 € 46,00     Contributie VJ 2015 Piet Verkaik
+46   Verkaik, Piet                 € 28,00     Contributie VJ 2015 2 Piet Verkaik
+54   Hoogendijk, Daam              € 93,00     Contributie VJ 2015 Daam Hoogendijk
+54   Hoogendijk, Daam              € 111,00    Contributie VJ 2015 2 Daam Hoogendijk
+60   Blanken, Bart den             € 86,00     Contributie VJ 2015 Bart den Blanken
+60   Blanken, Bart den             € 68,00     Contributie VJ 2015 2 Bart den Blanken
+108  Grimmelikhuijzen, Daniël      € 93,00     Contributie VJ 2015 Daniël Grimmelikhuijzen
+108  Grimmelikhuijzen, Daniël      € 111,00    Contributie VJ 2015 2 Daniël Grimmelikhuijzen
+111  Bednarczyk, Marek             € 86,00     Contributie VJ 2015 Marek Bednarczyk
+111  Bednarczyk, Marek             € 68,00     Contributie VJ 2015 2 Marek Bednarczyk
+115  Witteman, Alex                € 93,00     Contributie VJ 2015 Alex Witteman
+115  Witteman, Alex                € 111,00    Contributie VJ 2015 2 Alex Witteman
+140  Oostveen, Paul                € 93,00     Contributie VJ 2015 Paul Oostveen
+140  Oostveen, Paul                € 111,00    Contributie VJ 2015 2 Paul Oostveen
+166  Marijn, Peter                 € 31,00     Contributie VJ 2015 Peter Marijn
+166  Marijn, Peter                 € 40,00     Contributie VJ 2015 2 Peter Marijn
+179  Rutten, Jaap                  € 62,00     Contributie VJ 2015 Jaap Rutten
+179  Rutten, Jaap                  € 80,00     Contributie VJ 2015 2 Jaap Rutten
+194  Hendriks, Danny               € 111,00    Contributie VJ 2015 Danny Hendriks
+194  Hendriks, Danny               € 93,00     Contributie VJ 2015 2 Danny Hendriks
+208  Patz, Eli                     € 28,00     Contributie VJ 2015 Eli Patz  
+208  Patz, Eli                     € 46,00     Contributie VJ 2015 2 Eli Patz
+219  Jansen, Jan Willem            € 93,00     Contributie VJ 2015 Jan Willem Jansen
+219  Jansen, Jan Willem            € 111,00    Contributie VJ 2015 2 Jan Willem Jansen
+220  Jansen, John                  € 93,00     Contributie VJ 2015 John Jansen
+220  Jansen, John                  € 111,00    Contributie VJ 2015 2 John Jansen
+231  Wouterse, Alan                € 111,00    Contributie VJ 2015 Alan Wouterse
+231  Wouterse, Alan                € 93,00     Contributie VJ 2015 2 Alan Wouterse
+232  Lindenaar, Martin             € 111,00    Contributie VJ 2015 Martin Lindenaar
+232  Lindenaar, Martin             € 93,00     Contributie VJ 2015 2 Martin Lindenaar
+247  Jekel, Deborah                € 111,00    Contributie VJ 2015 Deborah Jekel
+247  Jekel, Deborah                € 93,00     Contributie VJ 2015 2 Deborah Jekel
+254  Nieuwendijk, Patrick          € 10,00     Inschrijfgeld Ranglijsttoernooi Tilburg
+254  Nieuwendijk, Patrick          € 43,00     Contributie VJ 2015 Patrick Nieuwendijk
+254  Nieuwendijk, Patrick          € 25,00     Contributie VJ 2015 2 Patrick Nieuwendijk
+256  Bosboom, Joris                € 111,00    Contributie VJ 2015 Joris Bosboom
+256  Bosboom, Joris                € 93,00     Contributie VJ 2015 2 Joris Bosboom
+257  Haas, Rens de                 € 111,00    Contributie VJ 2015 Rens de Haas
+257  Haas, Rens de                 € 93,00     Contributie VJ 2015 2 Rens de Haas
+266  Doorn, Sanne van              € 111,00    Contributie VJ 2015 Sanne van Doorn
+266  Doorn, Sanne van              € 93,00     Contributie VJ 2015 2 Sanne van Doorn
+270  Seldenrijk, Rob               € 68,00     Contributie VJ 2015 Rob Seldenrijk
+270  Seldenrijk, Rob               € 86,00     Contributie VJ 2015 2 Rob Seldenrijk
+290  Loon, Mariska van             € 68,00     Contributie VJ 2015 Mariska van Loon
+290  Loon, Mariska van             € 86,00     Contributie VJ 2015 2 Mariska van Loon
+294  Waal, Martijn de              € 68,00     Contributie VJ 2015 Martijn de Waal
+294  Waal, Martijn de              € 86,00     Contributie VJ 2015 2 Martijn de Waal
+305  Esterik, Darrel van           € 93,00     Contributie VJ 2015 Darrel van Esterik
+305  Esterik, Darrel van           € 111,00    Contributie VJ 2015 2 Darrel van Esterik
+307  Kader, Gino                   € 10,00     Inschrijfgeld Nijmegen        
+307  Kader, Gino                   € 26,00     Contributie VJ 2015 Gino Kader
+307  Kader, Gino                   € 8,00      Contributie VJ 2015 2 Gino Kader
+321  Grondhuis, Cor                € 28,00     Contributie VJ 2015 Cor Grondhuis
+321  Grondhuis, Cor                € 46,00     Contributie VJ 2015 2 Cor Grondhuis
+324  Nieuwendijk, Erwin            € 111,00    Contributie VJ 2015 Erwin Nieuwendijk
+324  Nieuwendijk, Erwin            € 93,00     Contributie VJ 2015 2 Erwin Nieuwendijk
+326  Beek, Cody van                € 111,00    Contributie VJ 2015 Cody van Beek
+326  Beek, Cody van                € 93,00     Contributie VJ 2015 2 Cody van Beek
+333  Delissen, Oscar               € 10,00     Inschrijfgeld Nijmegen        
+333  Delissen, Oscar               € 43,00     Contributie VJ 2015 Oscar Delissen
+333  Delissen, Oscar               € 25,00     Contributie VJ 2015 2 Oscar Delissen
+347  Waal, Renske de               € 25,00     Contributie VJ 2015 Renske de Waal
+347  Waal, Renske de               € 25,00     Contributie VJ 2015 2 Renske de Waal
+354  Schinkel, Hidde               € 25,00     Contributie VJ 2015 Hidde Schinkel
+354  Schinkel, Hidde               € 25,00     Contributie VJ 2015 2 Hidde Schinkel
+356  Alblas, Martijn               € 68,00     Contributie VJ 2015 Martijn Alblas
+356  Alblas, Martijn               € 86,00     Contributie VJ 2015 2 Martijn Alblas
+357  Warringa, Robin               € 111,00    Contributie VJ 2015 Robin Warringa
+357  Warringa, Robin               € 93,00     Contributie VJ 2015 2 Robin Warringa
+359  Strookman, Robin              € 15,00     Contributie VJ 2015 Robin Strookman
+359  Strookman, Robin              € 15,00     Contributie VJ 2015 2 Robin Strookman
+369  Spengen, John van             € 40,00     Contributie VJ 2015 John van Spengen
+369  Spengen, John van             € 31,00     Contributie VJ 2015 2 John van Spengen
+372  Cramer, Lex                   € 15,00     Contributie VJ 2015 Lex Cramer
+372  Cramer, Lex                   € 15,00     Contributie VJ 2015 2 Lex Cramer
+374  Fokkenrood, Mitch             € 43,00     Contributie VJ 2015 Mitch Fokkenrood
+374  Fokkenrood, Mitch             € 25,00     Contributie VJ 2015 2 Mitch Fokkenrood
+375  Wannet, Jasper                € 43,00     Contributie VJ 2015 Jasper Wannet
+375  Wannet, Jasper                € 25,00     Contributie VJ 2015 2 Jasper Wannet
+376  Peper, Douwe                  € 43,00     Contributie VJ 2015 Douwe Peper
+376  Peper, Douwe                  € 25,00     Contributie VJ 2015 2 Douwe Peper
+386  Uyleman, Bruce                € 15,00     Contributie VJ 2015 Bruce Uyleman
+386  Uyleman, Bruce                € 15,00     Contributie VJ 2015 2 Bruce Uyleman
+389  Bodenstaff, Frank             € 93,00     Contributie VJ 2015 Frank Bodenstaff
+389  Bodenstaff, Frank             € 111,00    Contributie VJ 2015 2 Frank Bodenstaff
+390  Mansi, Marco                  € 93,00     Contributie VJ 2015 Marco Mansi
+390  Mansi, Marco                  € 111,00    Contributie VJ 2015 2 Marco Mansi
+393  Bree, Jurre de                € 10,00     Inschrijfgeld Nijmegen        
+393  Bree, Jurre de                € 33,00     Contributie VJ 2015 Jurre de Bree
+393  Bree, Jurre de                € 15,00     Contributie VJ 2015 2 Jurre de Bree
+394  Brenninkmeyer, Timo           € 20,00     Contributie VJ 2015 Timo Brenninkmeyer
+394  Brenninkmeyer, Timo           € 2,00      Contributie VJ 2015 2 Timo Brenninkmeyer
+396  Hengst, Ruben                 € 8,00      Contributie VJ 2015 Ruben Hengst
+396  Hengst, Ruben                 € 8,00      Contributie VJ 2015 2 Ruben Hengst
+400  Pijl, Richard                 € 62,00     Contributie VJ 2015 Richard Pijl
+400  Pijl, Richard                 € 80,00     Contributie VJ 2015 2 Richard Pijl
+402  Drijfhout, Coen               € 10,00     Inschrijfgeld Nijmegen        
+402  Drijfhout, Coen               € 43,00     Contributie VJ 2015 Coen Drijfhout
+402  Drijfhout, Coen               € 25,00     Contributie VJ 2015 2 Coen Drijfhout
+405  Zelderen, Sharon van          € 10,00     Inschrijfgeld Nijmegen        
+405  Zelderen, Sharon van          € 26,00     Contributie VJ 2015 Sharon van Zelderen
+405  Zelderen, Sharon van          € 8,00      Contributie VJ 2015 2 Sharon van Zelderen
+406  Overbeek, Finn                € 33,00     Contributie VJ 2015 Finn Overbeek
+406  Overbeek, Finn                € 15,00     Contributie VJ 2015 2 Finn Overbeek
+407  Tuls, Jan                     € 31,00     Contributie VJ 2015 Jan Tuls  
+407  Tuls, Jan                     € 40,00     Contributie VJ 2015 2 Jan Tuls
+408  Benschop, Maarten             € 31,00     Contributie VJ 2015 Maarten Benschop
+408  Benschop, Maarten             € 40,00     Contributie VJ 2015 2 Maarten Benschop
+409  Duijveman, Jan                € 40,00     Contributie VJ 2015 Jan Duijveman
+409  Duijveman, Jan                € 31,00     Contributie VJ 2015 2 Jan Duijveman
+410  Nas, Alex de                  € 68,00     Contributie VJ 2015 Alex de Nas
+410  Nas, Alex de                  € 86,00     Contributie VJ 2015 2 Alex de Nas
+411  Klein Gunnewiek, Sven         € 10,00     Contributie VJ 2015 Sven Klein Gunnewiek
+411  Klein Gunnewiek, Sven         € -8,00     Contributie VJ 2015 2 Sven Klein Gunnewiek
+412  Vink, Amber                   € -8,00     Contributie VJ 2015 2 Amber Vink
+413  Papenhuijzen, Bas             € 43,00     Contributie VJ 2015 Bas Papenhuijzen
+413  Papenhuijzen, Bas             € 25,00     Contributie VJ 2015 2 Bas Papenhuijzen
+417  Zhou, Joy                     € 33,00     Contributie VJ 2015 Joy Zhou  
+417  Zhou, Joy                     € 15,00     Contributie VJ 2015 2 Joy Zhou
+418  Otterlo, Jason van            € 33,00     Contributie VJ 2015 Jason van Otterlo
+418  Otterlo, Jason van            € 15,00     Contributie VJ 2015 2 Jason van Otterlo
+419  Goessen, Joeri                € 93,00     Contributie VJ 2015 Joeri Goessen
+419  Goessen, Joeri                € 111,00    Contributie VJ 2015 2 Joeri Goessen
+420  Wierst, Milo van              € 10,00     Inschrijfgeld Nijmegen        
+420  Wierst, Milo van              € 33,00     Contributie VJ 2015 Milo van Wierst
+420  Wierst, Milo van              € 15,00     Contributie VJ 2015 2 Milo van Wierst
+421  Kruyswijk, Estia              € 10,00     Contributie VJ 2015 Estia Kruyswijk
+421  Kruyswijk, Estia              € -8,00     Contributie VJ 2015 2 Estia Kruyswijk
+422  Snijders, Chris               € 93,00     Contributie VJ 2015 Chris Snijders
+422  Snijders, Chris               € 111,00    Contributie VJ 2015 2 Chris Snijders
+425  Lamers, Juul                  € 33,00     Contributie VJ 2015 Juul Lamers
+425  Lamers, Juul                  € 15,00     Contributie VJ 2015 2 Juul Lamers
+426  Eijpe, Pim                    € 33,00     Contributie VJ 2015 Pim Eijpe 
+426  Eijpe, Pim                    € 15,00     Contributie VJ 2015 2 Pim Eijpe
+427  Crul, Timo                    € 10,00     Contributie VJ 2015 Timo Crul 
+427  Crul, Timo                    € -8,00     Contributie VJ 2015 2 Timo Crul
+428  Poppelen, Rick van            € 2,00      Contributie VJ 2015 2 Rick van Poppelen
+429  Ouwendijk, Pepijn             € 33,00     Contributie VJ 2015 Pepijn Ouwendijk
+429  Ouwendijk, Pepijn             € 15,00     Contributie VJ 2015 2 Pepijn Ouwendijk
+430  Oostveen, Jesse               € 93,00     Contributie VJ 2015 2 Jesse Oostveen
+431  Binsbergen, Seppe van         € -8,00     Contributie VJ 2015 2 Seppe van Binsbergen
+432  Linde, Tycho van der          € 43,00     Contributie VJ 2015 Tycho van der Linde
+432  Linde, Tycho van der          € 25,00     Contributie VJ 2015 2 Tycho van der Linde
+433  Reitsma, Daniel               € -8,00     Contributie VJ 2015 2 Daniel Reitsma
+434  Tol, Daan                     € 2,00      Contributie VJ 2015 2 Daan Tol
+
+

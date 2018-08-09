@@ -1,0 +1,35 @@
+Betalingverslag: C:\Temp\Visual studio projects\Leden.Net - work\Leden\Output\SCT014.xml
+
+Batch Naam: Payments 25-12-2014 15:26:15
+Aantal: 2  Bedrag: € 5,00
+
+Batch Naam: Payments 25-12-2014 15:26:15
+Aantal: 1  Bedrag: € 1,00
+
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">1.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Grimmelikhuijzen, Daniël</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL55INGB0004393421</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>Op de 25ste</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+
+

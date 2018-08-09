@@ -1,0 +1,127 @@
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrCdtTrfInitn>
+    <GrpHdr>
+      <MsgId>TTVN betaling 002</MsgId>
+      <CreDtTm>2014-12-29T23:23:29</CreDtTm>
+      <NbOfTxs>3</NbOfTxs>
+      <InitgPty>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>1234567</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>Payments 2 29-12-2014</PmtInfId> 
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>3</NbOfTxs>
+      <CtrlSum>0.01</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+       <CtgyPurp>
+          <Cd>OTHR</Cd>
+       </CtgyPurp>
+      </PmtTpInf>
+      <ReqdExctnDt>2014-12-29</ReqdExctnDt>
+      <Dbtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">0.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Lindenaar, Martin</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL75INGB0002535608</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>1</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">0.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Waal, Martijn de</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL77ABNA0467538786</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>2</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">0.01</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Lindenaar, Martin</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL75INGB0002535608</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>3</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+
+  </CstmrCdtTrfInitn>
+</Document>
+

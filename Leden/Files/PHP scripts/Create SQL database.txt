@@ -1,0 +1,443 @@
+﻿-- phpMyAdmin SQL Dump
+-- version 4.1.9
+-- http://www.phpmyadmin.net
+--
+-- Machine: localhost
+-- Gegenereerd op: 28 jun 2015 om 13:02
+-- Serverversie: 5.5.36
+-- PHP-versie: 5.3.29
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `LedenTest`
+--
+
+-- --------------------------------------------------------
+USE LedenTest;
+--
+-- Tabelstructuur voor tabel `Betaling`
+--
+
+CREATE TABLE IF NOT EXISTS `Betaling` (
+  `BetalingsSeqNr` int(11) NOT NULL DEFAULT '0',
+  `Crediteur` varchar(30) DEFAULT NULL,
+  `IBAN_Creditor` varchar(30) DEFAULT NULL,
+  `BIC_Creditor` varchar(11) DEFAULT NULL,
+  `Omschrijving` varchar(140) DEFAULT NULL,
+  `EndToEndId` varchar(35) DEFAULT NULL,
+  `TotaalBedrag` float DEFAULT NULL,
+  `TypeBetaling` tinyint(4) DEFAULT NULL,
+  `AanmaakDatum` date DEFAULT NULL,
+  `Verstuurd` tinyint(4) DEFAULT NULL,
+  `VerstuurdDatum` date DEFAULT NULL,
+  `GewensteVerwerkingsDatum` date DEFAULT NULL,
+  `Extra1` int(11) DEFAULT NULL,
+  `Extra2` int(11) DEFAULT NULL,
+  `Extra3` float DEFAULT NULL,
+  `ExtraA` text,
+  `ExtraB` text,
+  `ExtraC` text,
+  `DatumWijziging` datetime NOT NULL,
+  PRIMARY KEY (`BetalingsSeqNr`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Gegevens worden geëxporteerd voor tabel `Betaling`
+--
+
+INSERT INTO `Betaling` (`BetalingsSeqNr`, `Crediteur`, `IBAN_Creditor`, `BIC_Creditor`, `Omschrijving`, `EndToEndId`, `TotaalBedrag`, `TypeBetaling`, `AanmaakDatum`, `Verstuurd`, `VerstuurdDatum`, `GewensteVerwerkingsDatum`, `Extra1`, `Extra2`, `Extra3`, `ExtraA`, `ExtraB`, `ExtraC`, `DatumWijziging`) VALUES
+(1, 'Grimmelikhuijzen, Daniël', 'NL55INGB0004393421', 'INGBNL2A', 'test3', '', 2, 0, '2014-12-24', 1, '2015-01-04', '2014-12-24', 1, 2, 3, '=_ExtraA', '=_ExtraB', '=_ExtraC', '2015-06-28 00:20:56'),
+(2, 'Lindenaar, Martin', 'NL75INGB0002535608', 'INGBNL2A', '', '4211111111111111', 3, 0, '2014-12-24', 1, '2015-01-04', '2014-12-24', 1, 2, 3, '=_ExtraA', '=_ExtraB', '=_ExtraC', '2015-06-28 00:20:58'),
+(3, 'Grimmelikhuijzen, Daniël', 'NL55INGB0004393421', 'INGBNL2A', 'Op de 25ste', '', 1, 0, '2014-12-25', 1, '2015-01-04', '2014-12-25', 1, 2, 3, '=_ExtraA', '=_ExtraB', '=_ExtraC', '2015-06-28 00:20:58'),
+(4, 'Grimmelikhuijzen, Daniël', 'NL55INGB0004393421', 'INGBNL2A', 'blabla', '', 0, 0, '2014-12-25', 1, '2015-01-04', '2014-12-25', 1, 2, 3, '=_ExtraA', '=_ExtraB', '=_ExtraC', '2015-06-28 00:20:58'),
+(5, 'Wim', 'NL84RABO0331065266', 'RABONL2U', 'Testje', '', 0.01, 0, '2015-06-10', 1, '2015-06-11', '2015-06-10', 1, 2, 3, '=_ExtraA', '=_ExtraB', '=_ExtraC', '2015-06-28 00:20:58');
+
+-- --------------------------------------------------------
+
+--
+-- Tabelstructuur voor tabel `CompResult`
+--
+
+CREATE TABLE IF NOT EXISTS `CompResult` (
+  `LidNr` int(11) NOT NULL DEFAULT '0',
+  `Jaar` int(11) NOT NULL DEFAULT '0',
+  `Seizoen` varchar(30) NOT NULL DEFAULT '',
+  `CompetitieType` varchar(20) DEFAULT NULL,
+  `Klasse` varchar(30) DEFAULT NULL,
+  `Percentage` int(11) DEFAULT NULL,
+  `DatumWijziging` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`LidNr`,`Jaar`,`Seizoen`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Gegevens worden geëxporteerd voor tabel `CompResult`
+--
+
+INSERT INTO `CompResult` (`LidNr`, `Jaar`, `Seizoen`, `CompetitieType`, `Klasse`, `Percentage`, `DatumWijziging`) VALUES
+(5, 2014, 'V', '', '5', 33, '2015-06-26 13:31:28'),
+(10, 2014, 'V', '', '5', 44, '2015-06-26 13:31:28'),
+(14, 2014, 'V', '', '4', 52, '2015-06-26 13:31:28'),
+(14, 2015, 'V', '', '4', 43, '2015-06-26 13:31:28'),
+(17, 2014, 'V', '', '3', 100, '2015-06-26 13:31:28'),
+(23, 2015, 'V', '', '4', 100, '2015-06-26 13:31:28'),
+(33, 2014, 'V', '', '4', 44, '2015-06-26 13:31:28'),
+(33, 2015, 'V', '', '4', 46, '2015-06-26 13:31:29'),
+(45, 2014, 'V', '', '5', 71, '2015-06-26 13:31:29'),
+(53, 2014, 'V', '', '4', 70, '2015-06-26 13:31:29'),
+(53, 2015, 'V', '', '4', 63, '2015-06-26 13:31:29'),
+(54, 2014, 'V', '', '1', 67, '2015-06-26 13:31:29'),
+(54, 2015, 'V', '', '1', 33, '2015-06-26 13:31:29'),
+(60, 2014, 'V', '', '2', 56, '2015-06-26 13:31:29'),
+(60, 2015, 'V', '', '3', 88, '2015-06-26 13:31:29'),
+(74, 2014, 'V', '', '5', 48, '2015-06-26 13:31:29'),
+(108, 2014, 'V', '', '3', 48, '2015-06-26 13:31:29'),
+(108, 2015, 'V', '', '3', 59, '2015-06-26 13:31:29'),
+(115, 2014, 'V', '', '3', 56, '2015-06-26 13:31:29'),
+(115, 2015, 'V', '', '3', 50, '2015-06-26 13:31:30'),
+(126, 2014, 'V', '', '5', 33, '2015-06-26 13:31:30'),
+(140, 2014, 'V', '', '2', 95, '2015-06-26 13:31:30'),
+(140, 2015, 'V', '', '1', 59, '2015-06-26 13:31:30'),
+(166, 2014, 'V', '', '2', 28, '2015-06-26 13:31:30'),
+(173, 2014, 'V', '', 'B', 0, '2015-06-26 13:31:30'),
+(194, 2014, 'V', '', '1', 33, '2015-06-26 13:31:30'),
+(194, 2015, 'V', '', '1', 33, '2015-06-26 13:31:30'),
+(219, 2014, 'V', '', '2', 83, '2015-06-26 13:31:30'),
+(219, 2015, 'V', '', '1', 52, '2015-06-26 13:31:30'),
+(220, 2014, 'V', '', '1', 50, '2015-06-26 13:31:30'),
+(220, 2015, 'V', '', '2', 88, '2015-06-26 13:31:30'),
+(232, 2014, 'V', '', '2', 40, '2015-06-26 13:31:31'),
+(232, 2015, 'V', '', '2', 27, '2015-06-26 13:31:31'),
+(242, 2012, 'V', '', 'C', 30, '2015-06-26 13:31:31'),
+(242, 2013, 'N', '', 'C', 21, '2015-06-26 13:31:31'),
+(247, 2014, 'V', '', 'B', 48, '2015-06-26 13:31:31'),
+(247, 2015, 'V', '', '2', 7, '2015-06-26 13:31:31'),
+(254, 2012, 'V', '', 'A', 48, '2015-06-26 13:31:31'),
+(254, 2013, 'N', '', 'A', 60, '2015-06-26 13:31:31'),
+(254, 2014, 'N', '', 'A', 83, '2015-06-26 13:31:31'),
+(254, 2014, 'V', '', 'K', 67, '2015-06-26 13:31:31'),
+(256, 2014, 'V', '', '4', 63, '2015-06-26 13:31:31'),
+(256, 2015, 'V', '', '3', 50, '2015-06-26 13:31:32'),
+(257, 2014, 'V', '', '3', 67, '2015-06-26 13:31:32'),
+(257, 2015, 'V', '', '2', 53, '2015-06-26 13:31:32'),
+(266, 2014, 'V', '', '5', 72, '2015-06-26 13:31:32'),
+(270, 2013, 'N', '', 'B', 100, '2015-06-26 13:31:32'),
+(270, 2014, 'V', '', '1', 83, '2015-06-26 13:31:32'),
+(270, 2015, 'V', '', 'K', 61, '2015-06-26 13:31:32'),
+(290, 2014, 'V', '', '4', 44, '2015-06-26 13:31:32'),
+(290, 2015, 'V', '', '4', 60, '2015-06-26 13:31:32'),
+(294, 2012, 'V', '', 'C', 57, '2015-06-26 13:31:32'),
+(294, 2013, 'N', '', 'C', 50, '2015-06-26 13:31:32'),
+(307, 2012, 'V', '', '4', 75, '2015-06-26 13:31:32'),
+(307, 2013, 'N', '', '3', 87, '2015-06-26 13:31:33'),
+(307, 2014, 'N', '', '1', 57, '2015-06-26 13:31:33'),
+(307, 2014, 'V', '', '2', 56, '2015-06-26 13:31:33'),
+(307, 2015, 'V', '', 'C', 42, '2015-06-26 13:31:33'),
+(311, 2012, 'V', '', '4', 33, '2015-06-26 13:31:33'),
+(317, 2012, 'V', '', '4', 33, '2015-06-26 13:31:33'),
+(318, 2012, 'V', '', '2', 19, '2015-06-26 13:31:33'),
+(321, 2014, 'V', '', '4', 22, '2015-06-26 13:31:33'),
+(326, 2014, 'V', '', '4', 60, '2015-06-26 13:31:33'),
+(331, 2012, 'V', '', '2', 80, '2015-06-26 13:31:33'),
+(331, 2013, 'N', '', '1', 67, '2015-06-26 13:31:33'),
+(331, 2014, 'V', '', '1', 56, '2015-06-26 13:31:34'),
+(333, 2012, 'V', '', 'A', 10, '2015-06-26 13:31:34'),
+(333, 2013, 'N', '', '2', 57, '2015-06-26 13:31:34'),
+(333, 2014, 'N', '', 'B', 80, '2015-06-26 13:31:34'),
+(333, 2014, 'V', '', '2', 67, '2015-06-26 13:31:34'),
+(333, 2015, 'V', '', 'A', 30, '2015-06-26 13:31:34'),
+(347, 2013, 'N', '', 'S', 10, '2015-06-26 13:31:34'),
+(347, 2014, 'N', '', 'S', 50, '2015-06-26 13:31:34'),
+(347, 2014, 'V', '', 'S', 63, '2015-06-26 13:31:34'),
+(347, 2015, 'V', '', '6', 50, '2015-06-26 13:31:34'),
+(354, 2012, 'V', '', 'S', 100, '2015-06-26 13:31:34'),
+(354, 2013, 'N', '', '5', 52, '2015-06-26 13:31:35'),
+(354, 2014, 'N', '', '4', 17, '2015-06-26 13:31:35'),
+(354, 2014, 'V', '', '4', 33, '2015-06-26 13:31:35'),
+(354, 2015, 'V', '', '4', 30, '2015-06-26 13:31:35'),
+(356, 2014, 'V', '', '2', 73, '2015-06-26 13:31:35'),
+(357, 2014, 'V', '', '5', 39, '2015-06-26 13:31:35'),
+(359, 2012, 'V', '', 'S', 75, '2015-06-26 13:31:35'),
+(359, 2013, 'N', '', '6', 54, '2015-06-26 13:31:35'),
+(359, 2014, 'N', '', '5', 47, '2015-06-26 13:31:35'),
+(359, 2014, 'V', '', '5', 6, '2015-06-26 13:31:35'),
+(359, 2015, 'V', '', '4', 22, '2015-06-26 13:31:35'),
+(360, 2012, 'V', '', '6', 50, '2015-06-26 13:31:35'),
+(360, 2013, 'N', '', '5', 38, '2015-06-26 13:31:36'),
+(360, 2014, 'N', '', '4', 71, '2015-06-26 13:31:36'),
+(360, 2014, 'V', '', '4', 33, '2015-06-26 13:31:36'),
+(360, 2015, 'V', '', '4', 52, '2015-06-26 13:31:36'),
+(362, 2012, 'V', '', 'B', 69, '2015-06-26 13:31:36'),
+(362, 2013, 'N', '', 'B', 58, '2015-06-26 13:31:36'),
+(365, 2012, 'V', '', 'A', 70, '2015-06-26 13:31:36'),
+(365, 2013, 'N', '', 'A', 74, '2015-06-26 13:31:36'),
+(365, 2014, 'V', '', 'K', 75, '2015-06-26 13:31:36'),
+(369, 2014, 'V', '', '1', 39, '2015-06-26 13:31:36'),
+(369, 2015, 'V', '', '1', 52, '2015-06-26 13:31:36'),
+(372, 2012, 'V', '', 'S', 13, '2015-06-26 13:31:37'),
+(372, 2013, 'N', '', 'S', 30, '2015-06-26 13:31:37'),
+(372, 2014, 'N', '', 'S', 100, '2015-06-26 13:31:37'),
+(372, 2014, 'V', '', 'S', 75, '2015-06-26 13:31:37'),
+(372, 2015, 'V', '', '6', 59, '2015-06-26 13:31:37'),
+(373, 2014, 'V', '', '5', 0, '2015-06-26 13:31:37'),
+(374, 2012, 'V', '', '6', 83, '2015-06-26 13:31:37'),
+(374, 2013, 'N', '', '5', 79, '2015-06-26 13:31:37'),
+(374, 2014, 'N', '', '2', 72, '2015-06-26 13:31:37'),
+(374, 2014, 'V', '', '4', 92, '2015-06-26 13:31:37'),
+(375, 2013, 'N', '', '6', 77, '2015-06-26 13:31:37'),
+(375, 2014, 'N', '', '5', 71, '2015-06-26 13:31:37'),
+(375, 2014, 'V', '', '5', 17, '2015-06-26 13:31:38'),
+(375, 2015, 'V', '', '4', 50, '2015-06-26 13:31:38'),
+(376, 2012, 'V', '', '4', 88, '2015-06-26 13:31:38'),
+(376, 2013, 'N', '', '3', 100, '2015-06-26 13:31:38'),
+(376, 2014, 'N', '', 'B', 77, '2015-06-26 13:31:38'),
+(376, 2014, 'V', '', '2', 100, '2015-06-26 13:31:38'),
+(376, 2015, 'V', '', 'A', 74, '2015-06-26 13:31:38'),
+(377, 2014, 'V', '', '3', 33, '2015-06-26 13:31:38'),
+(380, 2014, 'V', '', '4', 71, '2015-06-26 13:31:38'),
+(381, 2012, 'V', '', '6', 71, '2015-06-26 13:31:38'),
+(381, 2013, 'N', '', '5', 67, '2015-06-26 13:31:38'),
+(386, 2013, 'N', '', '6', 58, '2015-06-26 13:31:38'),
+(386, 2014, 'N', '', '5', 74, '2015-06-26 13:31:39'),
+(386, 2014, 'V', '', '5', 24, '2015-06-26 13:31:39'),
+(386, 2015, 'V', '', '4', 28, '2015-06-26 13:31:39'),
+(389, 2014, 'V', '', '5', 61, '2015-06-26 13:31:39'),
+(390, 2014, 'V', '', '5', 61, '2015-06-26 13:31:39'),
+(393, 2012, 'V', '', 'S', 80, '2015-06-26 13:31:39'),
+(393, 2013, 'N', '', '6', 61, '2015-06-26 13:31:39'),
+(393, 2014, 'N', '', '5', 91, '2015-06-26 13:31:39'),
+(393, 2014, 'V', '', '5', 38, '2015-06-26 13:31:39'),
+(393, 2015, 'V', '', '4', 94, '2015-06-26 13:31:39'),
+(399, 2012, 'V', '', 'S', 100, '2015-06-26 13:31:39'),
+(402, 2012, 'V', '', '4', 74, '2015-06-26 13:31:40'),
+(402, 2013, 'N', '', '3', 47, '2015-06-26 13:31:40'),
+(402, 2014, 'N', '', '2', 59, '2015-06-26 13:31:40'),
+(402, 2014, 'V', '', '2', 22, '2015-06-26 13:31:40'),
+(402, 2015, 'V', '', '4', 67, '2015-06-26 13:31:40'),
+(403, 2013, 'N', '', '5', 67, '2015-06-26 13:31:40'),
+(403, 2014, 'V', '', '4', 39, '2015-06-26 13:31:40'),
+(404, 2014, 'V', '', '1', 48, '2015-06-26 13:31:40'),
+(405, 2012, 'N', '', '1', 65, '2015-06-26 13:31:40'),
+(405, 2013, 'N', '', 'C', 70, '2015-06-26 13:31:40'),
+(405, 2014, 'N', '', 'B', 17, '2015-06-26 13:31:40'),
+(405, 2014, 'V', '', 'B', 28, '2015-06-26 13:31:40'),
+(405, 2015, 'V', '', 'B', 20, '2015-06-26 13:31:41'),
+(407, 2014, 'V', '', '3', 80, '2015-06-26 13:31:41'),
+(407, 2015, 'V', '', '2', 32, '2015-06-26 13:31:41'),
+(408, 2014, 'V', '', '4', 62, '2015-06-26 13:31:41'),
+(408, 2015, 'V', '', '4', 72, '2015-06-26 13:31:41'),
+(410, 2014, 'V', '', '1', 50, '2015-06-26 13:31:41'),
+(410, 2015, 'V', '', '1', 25, '2015-06-26 13:31:41'),
+(413, 2014, 'N', '', '4', 0, '2015-06-26 13:31:41'),
+(413, 2015, 'V', '', '6', 88, '2015-06-26 13:31:41'),
+(419, 2014, 'V', '', '3', 61, '2015-06-26 13:31:41'),
+(419, 2015, 'V', '', '3', 83, '2015-06-26 13:31:41'),
+(420, 2014, 'N', '', '2', 77, '2015-06-26 13:31:42'),
+(420, 2015, 'V', '', '1', 46, '2015-06-26 13:31:42'),
+(424, 2014, 'N', '', '4', 43, '2015-06-26 13:31:42'),
+(424, 2015, 'V', '', '4', 46, '2015-06-26 13:31:42');
+
+-- --------------------------------------------------------
+
+--
+-- Tabelstructuur voor tabel `Crediteur`
+--
+
+CREATE TABLE IF NOT EXISTS `Crediteur` (
+  `Crediteur` varchar(30) NOT NULL DEFAULT '',
+  `Naam` varchar(30) DEFAULT NULL,
+  `IBAN` varchar(30) DEFAULT NULL,
+  `BIC` varchar(11) DEFAULT NULL,
+  `Omschrijving` text,
+  `DatumWijziging` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`Crediteur`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Gegevens worden geëxporteerd voor tabel `Crediteur`
+--
+
+INSERT INTO `Crediteur` (`Crediteur`, `Naam`, `IBAN`, `BIC`, `Omschrijving`, `DatumWijziging`) VALUES
+('aaa', 'aa a', 'ddd', '', 'dddddddddddddd', '2015-06-28 09:28:50'),
+('JanHendriksen', 'Jan Hendriksen', 'NL62RABO0381849430', 'RABONL2U', 'Mijn Default Omschrijbing', '2015-06-28 09:28:50'),
+('jsjssjjs', 'jsjs sjjs', 'dsd', '', '', '2015-06-28 09:28:50'),
+('Nieuw', 'Nieuw', '', '', '', '2015-06-28 09:28:50'),
+('Wim', 'Wim', 'NL84RABO0331065266', 'RABONL2U', 'Test', '2015-06-28 09:28:50');
+
+-- --------------------------------------------------------
+
+--
+-- Tabelstructuur voor tabel `EvenementenAgenda`
+--
+
+CREATE TABLE IF NOT EXISTS `EvenementenAgenda` (
+  `Datum` date NOT NULL,
+  `Tijd` varchar(20) NOT NULL,
+  `EvenementNaam` varchar(100) NOT NULL,
+  `Lokatie` varchar(50) NOT NULL,
+  `Type` char(1) NOT NULL,
+  `DoelGroep` char(1) NOT NULL,
+  `Toelichting` varchar(255) NOT NULL,
+  `DatumWijziging` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Gegevens worden geëxporteerd voor tabel `EvenementenAgenda`
+--
+
+INSERT INTO `EvenementenAgenda` (`Datum`, `Tijd`, `EvenementNaam`, `Lokatie`, `Type`, `DoelGroep`, `Toelichting`, `DatumWijziging`) VALUES
+('0000-00-00', 'Vanaf 11:00', 'NJM', 'Assen', 'T', 'J', 'Op uitnodiging', '0000-00-00 00:00:00'),
+('0000-00-00', 'Vanaf 11:00', 'NJM', 'Assen', 'T', 'J', 'Op uitnodiging', '0000-00-00 00:00:00'),
+('2015-02-02', 'Vanaf 11:00', 'NJM', 'Assen', 'T', 'J', 'Op uitnodiging', '0000-00-00 00:00:00'),
+('2015-10-01', 'Hele dag', 'Middenmeerkampen', 'Nieuwegein', 'T', 'J', 'Mijn Toernooi]', '0000-00-00 00:00:00'),
+('2015-10-02', 'Hele dag', 'Middenmeerkampen', 'Nieuwegein', 'T', 'J', 'Mijn Toernooi]', '0000-00-00 00:00:00'),
+('2015-10-03', 'Hele dag', 'Middenmeerkampen', 'Nieuwegein', 'T', 'J', 'Mijn Toernooi]', '0000-00-00 00:00:00'),
+('2015-10-04', 'Hele dag', 'Middenmeerkampen', 'Nieuwegein', 'T', 'J', 'Mijn Toernooi]', '0000-00-00 00:00:00'),
+('2015-10-05', 'Hele dag', 'Middenmeerkampen', 'Nieuwegein', 'T', 'J', 'Mijn Toernooi]', '0000-00-00 00:00:00'),
+('0000-00-00', ' In de avond', 'Een Toernooi', 'Waterlelie', 'T', 'S', 'Toernooi voor Senioren', '0000-00-00 00:00:00'),
+('2015-01-02', ' In de avond', 'Een Competie', 'Waterlelie', 'T', 'S', 'Competitie voor Senioren', '0000-00-00 00:00:00'),
+('2015-01-02', ' In de avond', 'Een Echte Competitie', 'Waterlelie', 'C', 'S', 'Competitie voor Senioren', '0000-00-00 00:00:00'),
+('2015-01-02', ' In de avond', 'Een Echte Competitie', 'Waterlelie', 'C', 'J', 'Competitie voor Jeugd', '0000-00-00 00:00:00');
+
+-- --------------------------------------------------------
+
+--
+-- Tabelstructuur voor tabel `Incasso`
+--
+
+CREATE TABLE IF NOT EXISTS `Incasso` (
+  `LidNr` int(11) NOT NULL DEFAULT '0',
+  `RekeningSeqNr` int(11) NOT NULL DEFAULT '0',
+  `Omschrijving` varchar(140) DEFAULT NULL,
+  `TypeRekening` tinyint(4) DEFAULT NULL,
+  `TotaalBedrag` float DEFAULT NULL,
+  `IBAN` varchar(30) DEFAULT NULL,
+  `BIC` varchar(11) DEFAULT NULL,
+  `AanmaakDatum` date DEFAULT NULL,
+  `VerstuurdDatum` date DEFAULT NULL,
+  `Verstuurd` tinyint(4) DEFAULT NULL,
+  `PeilDatum` date DEFAULT NULL,
+  `CompetitieBijdrage` float DEFAULT NULL,
+  `ContributieBedrag` float DEFAULT NULL,
+  `Bondsbijdrage` float DEFAULT NULL,
+  `ExtraBedrag` float DEFAULT NULL,
+  `Korting` float DEFAULT NULL,
+  `Gestorneerd` tinyint(4) DEFAULT NULL,
+  `KostenStornering` float DEFAULT NULL,
+  `MailOnderdrukken` tinyint(4) DEFAULT NULL,
+  `BedragKortingVrijwilliger` float DEFAULT NULL,
+  `Extra1` int(11) DEFAULT NULL,
+  `Extra2` int(11) DEFAULT NULL,
+  `Extra3` float DEFAULT NULL,
+  `ExtraA` text,
+  `ExtraB` text,
+  `ExtraC` text,
+  `DatumWijziging` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`LidNr`,`RekeningSeqNr`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Gegevens worden geëxporteerd voor tabel `Incasso`
+--
+
+INSERT INTO `Incasso` (`LidNr`, `RekeningSeqNr`, `Omschrijving`, `TypeRekening`, `TotaalBedrag`, `IBAN`, `BIC`, `AanmaakDatum`, `VerstuurdDatum`, `Verstuurd`, `PeilDatum`, `CompetitieBijdrage`, `ContributieBedrag`, `Bondsbijdrage`, `ExtraBedrag`, `Korting`, `Gestorneerd`, `KostenStornering`, `MailOnderdrukken`, `BedragKortingVrijwilliger`, `Extra1`, `Extra2`, `Extra3`, `ExtraA`, `ExtraB`, `ExtraC`, `DatumWijziging`) VALUES
+(1, 1, '', 0, 0, '', '', '2015-06-25', '1900-01-01', 0, '2015-06-25', 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 3, '', '_ExtraB', '_ExtraC', '2015-06-25 21:40:40'),
+(23, 1, '2 Wim Kielen', 0, 227.5, 'NL84RABO0331065266', 'RABONL2U', '2015-02-14', '2015-02-24', 1, '2015-01-01', 30, 200, 7.5, 0, 0, 0, 0, 0, 10, 1, 2, 3, 'PAIN002', '_ExtraB', '_ExtraC', '2015-06-25 21:53:40'),
+(331, 1, '2 Moreno Abrahams', 0, 107.5, 'NL84RABO0331065266', 'RABONL2U', '2015-02-14', '2015-02-24', 1, '2015-01-01', 0, 100, 7.5, 0, 0, 0, 0, 0, 0, 1, 2, 3, 'PAIN002', '_ExtraB', '_ExtraC', '2015-06-25 21:53:40'),
+(331, 2, 'Contributie VJ Moreno Abrahams', 0, 105, 'NL84RABO0331065266', 'RABONL2U', '2015-02-21', '2015-03-03', 1, '2015-01-01', 0, 100, 5, 0, 0, 0, 0, 0, 0, 1, 2, 3, 'PAIN002', '_ExtraB', '_ExtraC', '2015-06-25 21:53:40');
+
+-- --------------------------------------------------------
+
+--
+-- Tabelstructuur voor tabel `Lid`
+--
+
+CREATE TABLE IF NOT EXISTS `Lid` (
+  `LidNr` int(11) NOT NULL DEFAULT '0',
+  `Voornaam` varchar(30) DEFAULT NULL,
+  `Achternaam` varchar(30) DEFAULT NULL,
+  `Tussenvoegsel` varchar(20) DEFAULT NULL,
+  `Adres` varchar(50) DEFAULT NULL,
+  `Woonplaats` varchar(30) DEFAULT NULL,
+  `Postcode` varchar(10) DEFAULT NULL,
+  `Mobiel` varchar(20) DEFAULT NULL,
+  `Telefoon` varchar(20) DEFAULT NULL,
+  `BondsNr` varchar(7) DEFAULT NULL,
+  `Geslacht` varchar(1) DEFAULT NULL,
+  `GeboorteDatum` date DEFAULT NULL,
+  `Email1` varchar(50) DEFAULT NULL,
+  `Email2` varchar(50) DEFAULT NULL,
+  `IBAN` varchar(30) DEFAULT NULL,
+  `BIC` varchar(30) DEFAULT NULL,
+  `LidBond` tinyint(1) DEFAULT NULL,
+  `CompGerechtigd` tinyint(1) DEFAULT NULL,
+  `ToernooiSpeler` int(11) DEFAULT NULL,
+  `LidType` tinyint(4) DEFAULT NULL,
+  `LidVanaf` date DEFAULT NULL,
+  `Opgezegd` tinyint(1) DEFAULT NULL,
+  `LidTot` date DEFAULT NULL,
+  `Medisch` tinytext,
+  `Gemerkt` tinyint(4) DEFAULT NULL,
+  `U_PasNr` varchar(20) DEFAULT NULL,
+  `PakketTot` date DEFAULT NULL,
+  `BetaalWijze` tinyint(4) DEFAULT NULL,
+  `VastBedrag` float DEFAULT NULL,
+  `Korting` float DEFAULT NULL,
+  `Geincasseerd` tinyint(1) DEFAULT NULL,
+  `Ouder1_Naam` varchar(30) DEFAULT NULL,
+  `Ouder1_Email1` varchar(50) DEFAULT NULL,
+  `Ouder1_Email2` varchar(50) DEFAULT NULL,
+  `Ouder1_Mobiel` varchar(20) DEFAULT NULL,
+  `Ouder1_Telefoon` varchar(20) DEFAULT NULL,
+  `Ouder2_Naam` varchar(50) DEFAULT NULL,
+  `Ouder2_Email1` varchar(50) DEFAULT NULL,
+  `Ouder2_Email2` varchar(50) DEFAULT NULL,
+  `Ouder2_Mobiel` varchar(20) DEFAULT NULL,
+  `Ouder2_Telefoon` varchar(20) DEFAULT NULL,
+  `VrijwillgersRegelingIsVanToepassing` tinyint(1) DEFAULT NULL,
+  `VrijwillgersVasteTaak` tinyint(1) DEFAULT NULL,
+  `VrijwillgersAfgekocht` tinyint(1) DEFAULT NULL,
+  `VrijwillgersToelichting` tinytext,
+  `LicentieSen` varchar(1) DEFAULT NULL,
+  `LicentieJun` varchar(1) DEFAULT NULL,
+  `Extra1` int(11) DEFAULT NULL,
+  `Extra2` int(11) DEFAULT NULL,
+  `Extra3` float DEFAULT NULL,
+  `Extra4` float DEFAULT NULL,
+  `Extra5` float DEFAULT NULL,
+  `ExtraA` text,
+  `ExtraB` text,
+  `ExtraC` text,
+  `ExtraD` varchar(50) DEFAULT NULL,
+  `ExtraE` varchar(50) DEFAULT NULL,
+  `ToegangsCode` varchar(20) NOT NULL,
+  `Rol` varchar(10) NOT NULL,
+  `DatumWijziging` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+  PRIMARY KEY (`LidNr`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
+-- Gegevens worden geëxporteerd voor tabel `Lid`
+--
+
+INSERT INTO `Lid` (`LidNr`, `Voornaam`, `Achternaam`, `Tussenvoegsel`, `Adres`, `Woonplaats`, `Postcode`, `Mobiel`, `Telefoon`, `BondsNr`, `Geslacht`, `GeboorteDatum`, `Email1`, `Email2`, `IBAN`, `BIC`, `LidBond`, `CompGerechtigd`, `ToernooiSpeler`, `LidType`, `LidVanaf`, `Opgezegd`, `LidTot`, `Medisch`, `Gemerkt`, `U_PasNr`, `PakketTot`, `BetaalWijze`, `VastBedrag`, `Korting`, `Geincasseerd`, `Ouder1_Naam`, `Ouder1_Email1`, `Ouder1_Email2`, `Ouder1_Mobiel`, `Ouder1_Telefoon`, `Ouder2_Naam`, `Ouder2_Email1`, `Ouder2_Email2`, `Ouder2_Mobiel`, `Ouder2_Telefoon`, `VrijwillgersRegelingIsVanToepassing`, `VrijwillgersVasteTaak`, `VrijwillgersAfgekocht`, `VrijwillgersToelichting`, `LicentieSen`, `LicentieJun`, `Extra1`, `Extra2`, `Extra3`, `Extra4`, `Extra5`, `ExtraA`, `ExtraB`, `ExtraC`, `ExtraD`, `ExtraE`, `ToegangsCode`, `Rol`, `DatumWijziging`) VALUES
+(1, 'Jan', 'Alphen', 'van', 'Louis Couperushove 29', 'NIEUWEGEIN', '3438HL', '06-55694238', '030-6036567', '2461600', 'M', '1946-06-08', 'alphen46@hotmail.com', '', '', '', 1, 1, 0, 0, '1980-01-01', 127, '1900-01-01', '', 0, '', '1900-01-01', 0, 0, 0, 0, '', '', '', '', '', '', '', '', '', '', 0, 0, 0, '', '', 'G', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:23:26'),
+(2, 'Rein', 'Band', '', 'Braamgaarde 33', 'NIEUWEGEIN', '3436GM', '', '030-6039700', '2824971', 'M', '1947-04-21', '', '', '', '', 1, 0, 0, 0, '1991-06-01', 127, '1900-01-01', '', 0, '', '1900-01-01', 0, 0, 0, 0, '', '', '', '', '', '', '', '', '', '', 0, 0, 0, '', 'J', '', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:23:29'),
+(23, 'Wim', 'Kielen', '', 'Rembrandthage 420', 'NIEUWEGEIN', '3437PC', '06-52676140', '030-6013611', '3198048', 'M', '1966-03-17', 'wim@kielen.nl', '', 'NL62RABO0381849430', 'RABONL2U', 1, 1, 0, 0, '1997-03-01', 127, '1900-01-01', '', 1, '', '1900-01-01', 0, 0, 0, 1, '', '', '', '', '', '', '', '', '', '', 1, 1, 0, '', '', '', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:19:50'),
+(111, 'Marek', 'Bednarczyk', '', 'Orpheuslaan 46', 'NIEUWEGEIN', '3438VW', '', '030-6055889', '3366887', 'M', '1960-04-19', 'marek.bednarczyk@hotmail.com', '', 'NL27INGB0005998402', 'INGBNL2A', 1, 0, 0, 0, '2000-03-01', 127, '1900-01-01', '', 0, '', '1900-01-01', 0, 0, 0, 0, '', '', '', '', '', '', '', '', '', '', 0, 0, 0, '', '', '', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:19:50'),
+(159, 'Rita', 'Alphen Hopman', 'van', 'Louis Couperushove 29', 'NIEUWEGEIN', '3438HL', '', '030-6036567', '3471608', 'V', '1951-01-30', 'hoppie51@casema.nl', '', '', '', 1, 1, 1, 0, '2002-01-01', 127, '1900-01-01', '', 0, '', '1900-01-01', 0, 0, 0, 0, '', '', '', '', '', '', '', '', '', '', 0, 0, 0, 'test', 'H', '', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:23:20'),
+(173, 'Ewa', 'Bednarczyk', '', 'Orpheuslaan 46', 'NIEUWEGEIN', '3438VW', '', '030-6055889', '3597917', 'M', '1995-07-18', 'pixiepetje@hotmail.com', '', 'NL27INGB0005998402', 'INGBNL2A', 1, 0, 1, 0, '2002-05-01', 127, '1900-01-01', '', 0, '', '1900-01-01', 0, 0, 0, 0, '', '', '', '', '', '', '', '', '', '', 0, 1, 1, '', 'K', '', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:19:50'),
+(326, 'Cody', 'Beek', 'van', 'Herman Teirlinckhove 13', 'NIEUWEGEIN', '3437BL', '06-37466289', '030-6050765', '3975199', 'M', '1994-10-13', 'beekie94@hotmail.com', '', 'NL74INGB0006686644', 'INGBNL2A', 1, 1, 0, 0, '2009-10-02', 127, '1900-01-01', '', 0, '', '1900-01-01', 0, 0, 0, 0, '', '', '', '', '', '', '', '', '', '', 0, 0, 0, '', '', '', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:19:50'),
+(331, 'Moreno', 'Abrahams', '', 'Dorp 276', 'BENSCHOP', '3405BL', '06-54747575', '030-6021664', '3932183', 'M', '2002-07-23', 'wim@kielen.nl', '', 'NL26ABNA0402072464', 'ABNANL2A', 1, 0, 2, 0, '2009-11-06', 127, '2014-06-30', '', 0, '', '1900-01-01', 0, 0, 0, 1, 'Yuri', 'thuis@kielen.nl', '', '', '', 'Jolanda', '', '', '06-48387098', '', 0, 0, 0, '', '', 'A', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:23:07'),
+(23355, 'Moreno', 'Abrahams', '', 'Dorp 276', 'BENSCHOP', '3405BL', '06-54747575', '030-6021664', '3932183', 'M', '2002-07-23', 'wim@kielen.nl', '', 'NL26ABNA0402072464', 'ABNANL2A', 1, 0, 2, 0, '2009-11-06', 127, '2014-06-30', '', 0, '', '1900-01-01', 0, 0, 0, 1, 'Yuri', 'thuis@kielen.nl', '', '', '', 'Jolanda', '', '', '06-48387098', '', 0, 0, 0, '', '', 'A', 1, 2, 3, 4, 5, '_ExtraA', '_ExtraB', '_ExtraC', '', '', '_ToegangsCode', '_Rol', '2015-06-22 16:19:50');
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

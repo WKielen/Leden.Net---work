@@ -1,0 +1,4644 @@
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.008.001.02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrDrctDbtInitn>
+    <GrpHdr>
+      <MsgId>TTVN incasso 018</MsgId>
+      <CreDtTm>2015-02-12T09:47:39</CreDtTm>
+      <NbOfTxs>162</NbOfTxs>
+      <InitgPty>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>1234567</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>Batch FRST 12-2-2015 9:47:39</PmtInfId> 
+      <PmtMtd>DD</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>7</NbOfTxs>
+      <CtrlSum>201.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+        <LclInstrm>
+          <Cd>CORE</Cd>
+        </LclInstrm>
+        <SeqTp>FRST</SeqTp>
+      </PmtTpInf>
+      <ReqdColltnDt>2015-02-22</ReqdColltnDt>
+      <Cdtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Cdtr>
+      <CdtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </CdtrAcct>
+      <CdtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </CdtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtrSchmeId>
+        <Id>
+          <PrvtId>
+            <Othr>
+              <Id>NL95ZZZ12345670000</Id>
+              <SchmeNm>
+                <Prtry>SEPA</Prtry>
+              </SchmeNm>
+            </Othr>
+          </PrvtId>
+        </Id>
+      </CdtrSchmeId>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 412</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>412</MndtId>
+            <DtOfSgntr>2014-09-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Vink, Amber</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL67INGB0006141533</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Amber Vink</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 428</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">20.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>428</MndtId>
+            <DtOfSgntr>2014-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Poppelen, Rick van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL49INGB0006421120</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Rick van Poppelen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 430</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>430</MndtId>
+            <DtOfSgntr>2014-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Oostveen, Jesse</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL21RABO0378314033</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jesse Oostveen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 431</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>431</MndtId>
+            <DtOfSgntr>2014-11-28</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Binsbergen, Seppe van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL74INGB0005618965</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Seppe van Binsbergen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 432</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">20.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>432</MndtId>
+            <DtOfSgntr>2014-12-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Linde, Tycho van der</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL18INGB0007540088</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Clubshirt</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 433</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>433</MndtId>
+            <DtOfSgntr>2014-12-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Reitsma, Daniel</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL76INGB0006394444</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Daniel Reitsma</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 434</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">20.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>434</MndtId>
+            <DtOfSgntr>2015-02-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Tol, Daan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL57RABO0357790901</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Daan Tol</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+    </PmtInf>
+    <PmtInf>
+      <PmtInfId>Batch RCUR 12-2-2015 9:47:39</PmtInfId> 
+      <PmtMtd>DD</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>155</NbOfTxs>
+      <CtrlSum>8495.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+        <LclInstrm>
+          <Cd>CORE</Cd>
+        </LclInstrm>
+        <SeqTp>RCUR</SeqTp>
+      </PmtTpInf>
+      <ReqdColltnDt>2015-02-22</ReqdColltnDt>
+      <Cdtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Cdtr>
+      <CdtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </CdtrAcct>
+      <CdtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </CdtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtrSchmeId>
+        <Id>
+          <PrvtId>
+            <Othr>
+              <Id>NL95ZZZ12345670000</Id>
+              <SchmeNm>
+                <Prtry>SEPA</Prtry>
+              </SchmeNm>
+            </Othr>
+          </PrvtId>
+        </Id>
+      </CdtrSchmeId>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 10</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>10</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Dubbers, Sandra</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL87INGB0005767723</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Sandra Dubbers</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 10</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>10</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Dubbers, Sandra</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL87INGB0005767723</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Sandra Dubbers</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 14</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>14</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Groenen, Rob</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL81INGB0001933906</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Rob Groenen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 14</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>14</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Groenen, Rob</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL81INGB0001933906</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Rob Groenen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 17</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">46.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>17</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Heidema, Martijn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL93ABNA0449731820</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Martijn Heidema</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 17</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">37.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>17</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Heidema, Martijn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL93ABNA0449731820</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Martijn Heidema</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 23</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>23</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kielen, Wim</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL62RABO0381849430</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Wim Kielen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 23</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>23</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kielen, Wim</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL62RABO0381849430</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Wim Kielen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 33</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>33</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Oosthoek, Ruud</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL21INGB0001659603</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Ruud Oosthoek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 33</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>33</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Oosthoek, Ruud</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL21INGB0001659603</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Ruud Oosthoek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 46</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">46.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>46</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Verkaik, Piet</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL93INGB0000110187</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Piet Verkaik</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 46</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">28.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>46</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Verkaik, Piet</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL93INGB0000110187</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Piet Verkaik</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 54</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>54</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Hoogendijk, Daam</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL36INGB0008081897</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Daam Hoogendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 54</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>54</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Hoogendijk, Daam</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL36INGB0008081897</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Daam Hoogendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 60</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>60</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Blanken, Bart den</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL22ABNA0811447359</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Bart den Blanken</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 60</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>60</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Blanken, Bart den</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL22ABNA0811447359</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Bart den Blanken</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 108</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>108</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Grimmelikhuijzen, Daniel</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL55INGB0004393421</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Daniel Grimmelikhuijzen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 108</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>108</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Grimmelikhuijzen, Daniel</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL55INGB0004393421</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Daniel Grimmelikhuijzen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 111</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>111</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bednarczyk, Marek</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27INGB0005998402</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Marek Bednarczyk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 111</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>111</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bednarczyk, Marek</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27INGB0005998402</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Marek Bednarczyk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 115</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>115</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Witteman, Alex</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL30INGB0008635293</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Alex Witteman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 115</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>115</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Witteman, Alex</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL30INGB0008635293</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Alex Witteman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 140</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>140</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Oostveen, Paul</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL98RABO0140476407</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Paul Oostveen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 140</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>140</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Oostveen, Paul</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL98RABO0140476407</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Paul Oostveen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 166</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">31.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>166</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Marijn, Peter</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL23INGB0000175564</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Peter Marijn</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 166</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">40.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>166</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Marijn, Peter</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL23INGB0000175564</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Peter Marijn</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 179</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">62.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>179</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Rutten, Jaap</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL57INGB0008529853</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jaap Rutten</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 179</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">80.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>179</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Rutten, Jaap</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL57INGB0008529853</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jaap Rutten</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 194</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>194</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Hendriks, Danny</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL49INGB0004520308</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Danny Hendriks</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 194</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>194</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Hendriks, Danny</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL49INGB0004520308</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Danny Hendriks</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 208</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">28.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>208</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Patz, Eli</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL83INGB0000398360</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Eli Patz</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 208</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">46.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>208</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Patz, Eli</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL83INGB0000398360</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Eli Patz</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 219</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>219</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Jansen, Jan Willem</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL87INGB0006447790</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jan Willem Jansen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 219</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>219</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Jansen, Jan Willem</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL87INGB0006447790</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jan Willem Jansen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 220</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>220</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Jansen, John</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL34RABO0106881221</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 John Jansen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 220</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>220</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Jansen, John</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL34RABO0106881221</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 John Jansen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 231</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>231</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wouterse, Alan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL36INGB0003895862</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Alan Wouterse</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 231</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>231</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wouterse, Alan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL36INGB0003895862</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Alan Wouterse</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 232</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>232</MndtId>
+            <DtOfSgntr>2009-12-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Lindenaar, Martin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL75INGB0002535608</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Martin Lindenaar</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 232</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>232</MndtId>
+            <DtOfSgntr>2009-12-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Lindenaar, Martin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL75INGB0002535608</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Martin Lindenaar</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 247</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>247</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Jekel, Deborah</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL72INGB0003486844</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Deborah Jekel</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 247</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>247</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Jekel, Deborah</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL72INGB0003486844</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Deborah Jekel</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 254</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>254</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nieuwendijk, Patrick</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48INGB0000883020</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Ranglijsttoernooi Tilburg</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 254</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>254</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nieuwendijk, Patrick</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48INGB0000883020</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Patrick Nieuwendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 254</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>254</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nieuwendijk, Patrick</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48INGB0000883020</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Patrick Nieuwendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 256</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>256</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bosboom, Joris</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL45INGB0004036156</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Joris Bosboom</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 256</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>256</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bosboom, Joris</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL45INGB0004036156</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Joris Bosboom</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 257</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>257</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Haas, Rens de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL42INGB0001233395</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Rens de Haas</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 257</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>257</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Haas, Rens de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL42INGB0001233395</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Rens de Haas</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 266</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>266</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Doorn, Sanne van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL95INGB0008869542</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Sanne van Doorn</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 266</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>266</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Doorn, Sanne van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL95INGB0008869542</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Sanne van Doorn</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 270</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>270</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Seldenrijk, Rob</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL91INGB0004169673</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Rob Seldenrijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 270</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>270</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Seldenrijk, Rob</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL91INGB0004169673</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Rob Seldenrijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 290</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>290</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Loon, Mariska van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL14INGB0004597956</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Mariska van Loon</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 290</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>290</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Loon, Mariska van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL14INGB0004597956</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Mariska van Loon</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 294</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>294</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Waal, Martijn de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL77ABNA0467538786</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Martijn de Waal</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 294</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>294</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Waal, Martijn de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL77ABNA0467538786</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Martijn de Waal</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 305</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>305</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Esterik, Darrel van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL18ABNA0554385694</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Darrel van Esterik</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 305</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>305</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Esterik, Darrel van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL18ABNA0554385694</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Darrel van Esterik</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 307</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>307</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ASNBNL21</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kader, Gino</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL44ASNB0708124135</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Nijmegen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 307</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">26.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>307</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ASNBNL21</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kader, Gino</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL44ASNB0708124135</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Gino Kader</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 307</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>307</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ASNBNL21</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kader, Gino</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL44ASNB0708124135</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Gino Kader</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 321</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">28.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>321</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Grondhuis, Cor</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL07RABO0364203307</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Cor Grondhuis</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 321</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">46.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>321</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Grondhuis, Cor</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL07RABO0364203307</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Cor Grondhuis</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 324</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>324</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nieuwendijk, Erwin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL04INGB0677868928</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Erwin Nieuwendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 324</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>324</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nieuwendijk, Erwin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL04INGB0677868928</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Erwin Nieuwendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 326</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>326</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Beek, Cody van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL74INGB0006686644</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Cody van Beek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 326</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>326</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Beek, Cody van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL74INGB0006686644</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Cody van Beek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 333</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>333</MndtId>
+            <DtOfSgntr>2009-12-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Delissen, Oscar</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL22INGB0005838927</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Nijmegen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 333</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>333</MndtId>
+            <DtOfSgntr>2009-12-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Delissen, Oscar</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL22INGB0005838927</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Oscar Delissen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 333</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>333</MndtId>
+            <DtOfSgntr>2009-12-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Delissen, Oscar</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL22INGB0005838927</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Oscar Delissen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 347</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>347</MndtId>
+            <DtOfSgntr>2010-10-12</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Waal, Renske de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL77ABNA0467538786</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Renske de Waal</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 347</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>347</MndtId>
+            <DtOfSgntr>2010-10-12</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Waal, Renske de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL77ABNA0467538786</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Renske de Waal</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 354</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>354</MndtId>
+            <DtOfSgntr>2011-04-25</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Schinkel, Hidde</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL24RABO0159275660</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Hidde Schinkel</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 354</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>354</MndtId>
+            <DtOfSgntr>2011-04-25</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Schinkel, Hidde</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL24RABO0159275660</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Hidde Schinkel</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 356</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>356</MndtId>
+            <DtOfSgntr>2011-08-30</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Alblas, Martijn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL41RABO0331027046</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Martijn Alblas</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 356</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>356</MndtId>
+            <DtOfSgntr>2011-08-30</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Alblas, Martijn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL41RABO0331027046</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Martijn Alblas</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 357</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>357</MndtId>
+            <DtOfSgntr>2011-08-30</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>SNSBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Warringa, Robin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL20SNSB0821473204</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Robin Warringa</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 357</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>357</MndtId>
+            <DtOfSgntr>2011-08-30</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>SNSBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Warringa, Robin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL20SNSB0821473204</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Robin Warringa</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 359</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>359</MndtId>
+            <DtOfSgntr>2011-09-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Strookman, Robin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL83ABNA0984386106</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Robin Strookman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 359</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>359</MndtId>
+            <DtOfSgntr>2011-09-21</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Strookman, Robin</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL83ABNA0984386106</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Robin Strookman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 369</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">40.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>369</MndtId>
+            <DtOfSgntr>2012-01-24</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Spengen, John van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL54ABNA0801977061</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 John van Spengen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 369</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">31.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>369</MndtId>
+            <DtOfSgntr>2012-01-24</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Spengen, John van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL54ABNA0801977061</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 John van Spengen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 372</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>372</MndtId>
+            <DtOfSgntr>2012-03-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Cramer, Lex</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53RABO0350025541</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Lex Cramer</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 372</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>372</MndtId>
+            <DtOfSgntr>2012-03-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Cramer, Lex</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53RABO0350025541</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Lex Cramer</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 374</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>374</MndtId>
+            <DtOfSgntr>2012-07-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Fokkenrood, Mitch</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27RABO0394371208</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Mitch Fokkenrood</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 374</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>374</MndtId>
+            <DtOfSgntr>2012-07-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Fokkenrood, Mitch</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27RABO0394371208</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Mitch Fokkenrood</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 375</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>375</MndtId>
+            <DtOfSgntr>2012-07-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wannet, Jasper</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL39INGB0007029296</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jasper Wannet</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 375</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>375</MndtId>
+            <DtOfSgntr>2012-07-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wannet, Jasper</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL39INGB0007029296</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jasper Wannet</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 376</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>376</MndtId>
+            <DtOfSgntr>2012-07-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Peper, Douwe</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL46ABNA0430839782</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Douwe Peper</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 376</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>376</MndtId>
+            <DtOfSgntr>2012-07-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Peper, Douwe</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL46ABNA0430839782</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Douwe Peper</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 386</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>386</MndtId>
+            <DtOfSgntr>2012-10-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Uyleman, Bruce</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL17ABNA0534425828</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Bruce Uyleman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 386</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>386</MndtId>
+            <DtOfSgntr>2012-10-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Uyleman, Bruce</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL17ABNA0534425828</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Bruce Uyleman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 389</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>389</MndtId>
+            <DtOfSgntr>2012-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bodenstaff, Frank</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL49ABNA0462005828</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Frank Bodenstaff</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 389</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>389</MndtId>
+            <DtOfSgntr>2012-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bodenstaff, Frank</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL49ABNA0462005828</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Frank Bodenstaff</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 390</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>390</MndtId>
+            <DtOfSgntr>2012-10-25</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Mansi, Marco</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL15RABO0137264194</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Marco Mansi</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 390</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>390</MndtId>
+            <DtOfSgntr>2012-10-25</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Mansi, Marco</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL15RABO0137264194</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Marco Mansi</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 393</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>393</MndtId>
+            <DtOfSgntr>2012-11-14</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bree, Jurre de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL86INGB0005423488</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Nijmegen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 393</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>393</MndtId>
+            <DtOfSgntr>2012-11-14</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bree, Jurre de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL86INGB0005423488</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jurre de Bree</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 393</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>393</MndtId>
+            <DtOfSgntr>2012-11-14</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Bree, Jurre de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL86INGB0005423488</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jurre de Bree</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 394</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">20.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>394</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Brenninkmeyer, Timo</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL34ABNA0483424862</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Timo Brenninkmeyer</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 394</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">2.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>394</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Brenninkmeyer, Timo</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL34ABNA0483424862</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Timo Brenninkmeyer</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 396</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>396</MndtId>
+            <DtOfSgntr>2012-12-20</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Hengst, Ruben</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL47INGB0006065748</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Ruben Hengst</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 396</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>396</MndtId>
+            <DtOfSgntr>2012-12-20</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Hengst, Ruben</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL47INGB0006065748</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Ruben Hengst</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 400</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">62.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>400</MndtId>
+            <DtOfSgntr>2013-01-27</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Pijl, Richard</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL30INGB0003786166</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Richard Pijl</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 400</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">80.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>400</MndtId>
+            <DtOfSgntr>2013-01-27</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Pijl, Richard</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL30INGB0003786166</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Richard Pijl</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 402</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>402</MndtId>
+            <DtOfSgntr>2013-07-20</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Drijfhout, Coen</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27RABO0556961056</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Nijmegen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 402</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>402</MndtId>
+            <DtOfSgntr>2013-07-20</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Drijfhout, Coen</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27RABO0556961056</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Coen Drijfhout</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 402</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>402</MndtId>
+            <DtOfSgntr>2013-07-20</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Drijfhout, Coen</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL27RABO0556961056</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Coen Drijfhout</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 405</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>405</MndtId>
+            <DtOfSgntr>2013-09-16</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Zelderen, Sharon van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53INGB0003709510</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Nijmegen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 405</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">26.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>405</MndtId>
+            <DtOfSgntr>2013-09-16</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Zelderen, Sharon van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53INGB0003709510</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Sharon van Zelderen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 405</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>405</MndtId>
+            <DtOfSgntr>2013-09-16</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Zelderen, Sharon van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53INGB0003709510</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Sharon van Zelderen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 406</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>406</MndtId>
+            <DtOfSgntr>2013-09-29</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Overbeek, Finn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48RABO0381016064</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Finn Overbeek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 406</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>406</MndtId>
+            <DtOfSgntr>2013-09-29</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Overbeek, Finn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48RABO0381016064</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Finn Overbeek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 407</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">31.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>407</MndtId>
+            <DtOfSgntr>2013-10-11</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Tuls, Jan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL08ABNA0556391543</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jan Tuls</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 407</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">40.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>407</MndtId>
+            <DtOfSgntr>2013-10-11</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Tuls, Jan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL08ABNA0556391543</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jan Tuls</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 408</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">31.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>408</MndtId>
+            <DtOfSgntr>2013-10-11</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Benschop, Maarten</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL02RABO0134614194</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Maarten Benschop</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 408</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">40.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>408</MndtId>
+            <DtOfSgntr>2013-10-11</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Benschop, Maarten</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL02RABO0134614194</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Maarten Benschop</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 409</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">40.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>409</MndtId>
+            <DtOfSgntr>2013-10-22</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Duijveman, Jan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL32ABNA0975502794</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jan Duijveman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 409</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">31.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>409</MndtId>
+            <DtOfSgntr>2013-10-22</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Duijveman, Jan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL32ABNA0975502794</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jan Duijveman</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 410</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">68.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>410</MndtId>
+            <DtOfSgntr>2014-01-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nas, Alex de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL60INGB0008665017</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Alex de Nas</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 410</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">86.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>410</MndtId>
+            <DtOfSgntr>2014-01-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Nas, Alex de</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL60INGB0008665017</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Alex de Nas</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 411</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>411</MndtId>
+            <DtOfSgntr>2013-11-10</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Klein Gunnewiek, Sven</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL36RABO0307100340</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Sven Klein Gunnewiek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 411</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">-8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>411</MndtId>
+            <DtOfSgntr>2013-11-10</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Klein Gunnewiek, Sven</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL36RABO0307100340</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Sven Klein Gunnewiek</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 412</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">-8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>412</MndtId>
+            <DtOfSgntr>2014-09-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Vink, Amber</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL67INGB0006141533</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Amber Vink</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 413</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>413</MndtId>
+            <DtOfSgntr>2013-12-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Papenhuijzen, Bas</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53INGB0005096804</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Bas Papenhuijzen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 413</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>413</MndtId>
+            <DtOfSgntr>2013-12-08</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Papenhuijzen, Bas</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53INGB0005096804</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Bas Papenhuijzen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 417</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>417</MndtId>
+            <DtOfSgntr>2014-01-31</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Zhou, Joy</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL05ABNA0557070015</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Joy Zhou</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 417</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>417</MndtId>
+            <DtOfSgntr>2014-01-31</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Zhou, Joy</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL05ABNA0557070015</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Joy Zhou</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 418</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>418</MndtId>
+            <DtOfSgntr>2014-04-16</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Otterlo, Jason van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48INGB0003381352</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Jason van Otterlo</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 418</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>418</MndtId>
+            <DtOfSgntr>2014-04-16</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Otterlo, Jason van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL48INGB0003381352</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jason van Otterlo</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 419</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>419</MndtId>
+            <DtOfSgntr>2014-07-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Goessen, Joeri</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL52RABO0147617987</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Joeri Goessen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 419</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>419</MndtId>
+            <DtOfSgntr>2014-07-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Goessen, Joeri</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL52RABO0147617987</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Joeri Goessen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 420</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>420</MndtId>
+            <DtOfSgntr>2014-05-26</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wierst, Milo van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL59ABNA0986736848</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Inschrijfgeld Nijmegen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 420</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>420</MndtId>
+            <DtOfSgntr>2014-05-26</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wierst, Milo van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL59ABNA0986736848</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Milo van Wierst</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 420</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>420</MndtId>
+            <DtOfSgntr>2014-05-26</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Wierst, Milo van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL59ABNA0986736848</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Milo van Wierst</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 421</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>421</MndtId>
+            <DtOfSgntr>2014-07-02</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kruyswijk, Estia</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL52RABO0331080974</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Estia Kruyswijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 421</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">-8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>421</MndtId>
+            <DtOfSgntr>2014-07-02</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kruyswijk, Estia</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL52RABO0331080974</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Estia Kruyswijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 422</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>422</MndtId>
+            <DtOfSgntr>2014-09-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Snijders, Chris</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL68INGB0000013928</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Chris Snijders</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 422</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">111.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>422</MndtId>
+            <DtOfSgntr>2014-09-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Snijders, Chris</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL68INGB0000013928</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Chris Snijders</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 425</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>425</MndtId>
+            <DtOfSgntr>2014-10-10</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Lamers, Juul</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL97RABO0180503669</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Juul Lamers</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 425</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>425</MndtId>
+            <DtOfSgntr>2014-10-10</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Lamers, Juul</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL97RABO0180503669</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Juul Lamers</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 426</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>426</MndtId>
+            <DtOfSgntr>2014-10-10</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Eijpe, Pim</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53RABO0331065339</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Pim Eijpe</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 426</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>426</MndtId>
+            <DtOfSgntr>2014-10-10</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Eijpe, Pim</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL53RABO0331065339</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Pim Eijpe</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 427</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">10.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>427</MndtId>
+            <DtOfSgntr>2014-10-23</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Crul, Timo</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL33INGB0004987554</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Timo Crul</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 427</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">-8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>427</MndtId>
+            <DtOfSgntr>2014-10-23</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Crul, Timo</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL33INGB0004987554</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Timo Crul</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 428</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">2.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>428</MndtId>
+            <DtOfSgntr>2014-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Poppelen, Rick van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL49INGB0006421120</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Rick van Poppelen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 429</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">33.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>429</MndtId>
+            <DtOfSgntr>2014-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Ouwendijk, Pepijn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL91RABO0381011410</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Pepijn Ouwendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 429</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">15.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>429</MndtId>
+            <DtOfSgntr>2014-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Ouwendijk, Pepijn</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL91RABO0381011410</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Pepijn Ouwendijk</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 430</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">93.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>430</MndtId>
+            <DtOfSgntr>2014-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Oostveen, Jesse</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL21RABO0378314033</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Jesse Oostveen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 431</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">-8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>431</MndtId>
+            <DtOfSgntr>2014-11-28</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Binsbergen, Seppe van</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL74INGB0005618965</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Seppe van Binsbergen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 432</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">43.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>432</MndtId>
+            <DtOfSgntr>2014-12-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Linde, Tycho van der</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL18INGB0007540088</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 Tycho van der Linde</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 432</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">25.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>432</MndtId>
+            <DtOfSgntr>2014-12-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Linde, Tycho van der</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL18INGB0007540088</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Tycho van der Linde</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 433</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">-8.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>433</MndtId>
+            <DtOfSgntr>2014-12-18</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Reitsma, Daniel</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL76INGB0006394444</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Daniel Reitsma</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 434</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">2.00</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>434</MndtId>
+            <DtOfSgntr>2015-02-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Tol, Daan</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL57RABO0357790901</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>Contributie VJ 2015 2 Daan Tol</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+    </PmtInf>
+  </CstmrDrctDbtInitn>
+</Document>
+

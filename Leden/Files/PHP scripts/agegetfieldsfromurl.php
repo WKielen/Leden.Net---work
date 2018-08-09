@@ -1,0 +1,19 @@
+<?php
+$Id = $_POST['Id'];
+$Datum = $_POST['Datum'];
+$Tijd = $_POST['Tijd'];
+$EvenementNaam = $_POST['EvenementNaam'];
+$ContactPersoon = $_POST['ContactPersoon'];
+$Lokatie = $_POST['Lokatie'];
+$Type = $_POST['Type'];
+$DoelGroep = $_POST['DoelGroep'];
+$Toelichting = $_POST['Toelichting'];
+$Inschrijven= $_POST['Inschrijven'];
+$Inschrijfgeld = $_POST['Inschrijfgeld'];
+$BetaalMethode = $_POST['BetaalMethode'];
+$Vervoer = $_POST['Vervoer'];
+$VerzamelAfspraak = $_POST['VerzamelAfspraak'];
+$Extra1 = $_POST['Extra1'];
+$Extra2 = $_POST['Extra2'];
+$ExtraA = $_POST['ExtraA'];
+$ExtraB = $_POST['ExtraB'];

@@ -1,0 +1,32 @@
+Betalingverslag: C:\Temp\Visual studio projects\Leden.Net - work\Leden\Output\SCT013.xml
+
+Batch Naam: TODO
+Aantal: 1  Bedrag: € 1,00
+
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">1.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Grimmelikhuijzen, Daniël</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL55INGB0004393421</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>Op de 25ste</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+
+

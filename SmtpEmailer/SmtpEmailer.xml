@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SmtpEmailer</name>
+    </assembly>
+    <members>
+        <member name="T:Util.Email.StatusData">
+            <summary>
+            Return data
+            </summary>
+        </member>
+        <member name="F:Util.Email.StatusData.IsValid">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Util.Email.StatusData.Message">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Util.Email.StatusData.#ctor(System.Boolean,System.String)">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Util.Email.CheckEmail">
+            <summary>
+            Class with static methods to check or manipulate 
+            </summary>
+        </member>
+        <member name="M:Util.Email.CheckEmail.CheckEmailAddress(System.String)">
+            <summary>
+            Check if the format of an email address is valid
+            </summary>
+        </member>
+        <member name="M:Util.Email.CheckEmail.ContainsEditedAddress(System.String)">
+            <summary>
+            Check if an email address contains a 'smaller' sign. If so the email address is formatted with a name.
+            </summary>
+        </member>
+        <member name="M:Util.Email.CheckEmail.StripEditedAddress(System.String)">
+            <summary>
+            Strip the name from a email address
+            </summary>
+        </member>
+        <member name="T:Leden.Net.CallBackStatus">
+            <summary>
+            
+            </summary>
+            <param name="regel"></param>
+        </member>
+        <member name="T:Leden.Net.SmtpClientExt">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Leden.Net.SmtpClientExt.#ctor(System.String,System.Int32,System.String,System.String,System.String,System.Boolean,System.Boolean,Leden.Net.CallBackStatus)">
+             <summary>
+             
+             Aanroepen met :
+             SmtpClientExt client = new SmtpClientExt("server72.hosting2go.nl", 2525, "penningmeester@ttvn.nl", "password",
+                                                      string.Empty, false, false, new CallBackStatus(PrintRegel));
+             Je moet in de calling class de volgende method hebben :
+              static void PrintRegel(string regel)
+            {
+                Console.WriteLine(regel);
+            }
+            
+             </summary>
+             <param name="Host"></param>
+             <param name="Port"></param>
+             <param name="Userid"></param>
+             <param name="Password"></param>
+             <param name="Logfile"></param>
+             <param name="LogMessages"></param>
+             <param name="DoNotSend"></param>
+             <param name="callBackStatus"></param>
+        </member>
+        <member name="M:Leden.Net.SmtpClientExt.StripHTML(System.String)">
+            <summary>
+            haal de html tags uit de string
+            </summary>
+            <param name="source"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

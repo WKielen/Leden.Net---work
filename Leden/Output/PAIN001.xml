@@ -1,0 +1,120 @@
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.008.001.02" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrDrctDbtInitn>
+    <GrpHdr>
+      <MsgId>TTVN incasso 001</MsgId>
+      <CreDtTm>2015-02-14T23:06:23</CreDtTm>
+      <NbOfTxs>2</NbOfTxs>
+      <InitgPty>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>1234567</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>Batch RCUR 14-2-2015 23:06:23</PmtInfId> 
+      <PmtMtd>DD</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>2</NbOfTxs>
+      <CtrlSum>335.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+        <LclInstrm>
+          <Cd>CORE</Cd>
+        </LclInstrm>
+        <SeqTp>RCUR</SeqTp>
+      </PmtTpInf>
+      <ReqdColltnDt>2015-02-24</ReqdColltnDt>
+      <Cdtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Cdtr>
+      <CdtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </CdtrAcct>
+      <CdtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </CdtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtrSchmeId>
+        <Id>
+          <PrvtId>
+            <Othr>
+              <Id>NL95ZZZ12345670000</Id>
+              <SchmeNm>
+                <Prtry>SEPA</Prtry>
+              </SchmeNm>
+            </Othr>
+          </PrvtId>
+        </Id>
+      </CdtrSchmeId>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 23</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">227.50</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>23</MndtId>
+            <DtOfSgntr>2009-11-01</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Kielen, Wim</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL62RABO0381849430</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>2 Wim Kielen</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+      <DrctDbtTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 331</EndToEndId>
+        </PmtId>
+        <InstdAmt Ccy="EUR">107.50</InstdAmt>
+        <DrctDbtTx>
+          <MndtRltdInf>
+            <MndtId>331</MndtId>
+            <DtOfSgntr>2009-11-06</DtOfSgntr>
+          </MndtRltdInf>
+        </DrctDbtTx>
+        <DbtrAgt>
+          <FinInstnId>
+            <BIC>ABNANL2A</BIC>
+          </FinInstnId>
+        </DbtrAgt>
+        <Dbtr>
+          <Nm>Abrahams, Moreno</Nm>
+        </Dbtr>
+        <DbtrAcct>
+          <Id>
+            <IBAN>NL26ABNA0402072464</IBAN>
+          </Id>
+        </DbtrAcct>
+        <RmtInf>
+          <Ustrd>2 Moreno Abrahams</Ustrd>
+        </RmtInf>
+      </DrctDbtTxInf>
+    </PmtInf>
+  </CstmrDrctDbtInitn>
+</Document>
+

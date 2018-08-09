@@ -1,0 +1,13 @@
+Incassoverslag: D:\Visual studio projects Sync\Leden.Net - work\Leden\Output\PAIN002.xml
+
+Batch Naam: Batch FRST 21-2-2015 22:19:36
+Aantal: 0  Bedrag: € 0,00
+
+
+
+Batch Naam: Batch RCUR 21-2-2015 22:19:36
+Aantal: 1  Bedrag: € 105,00
+
+331  Abrahams, Moreno              € 105,00    Contributie VJ Moreno Abrahams
+
+

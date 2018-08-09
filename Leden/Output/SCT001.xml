@@ -1,0 +1,75 @@
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrCdtTrfInitn>
+    <GrpHdr>
+      <MsgId>TTVN betaling 001</MsgId>
+      <CreDtTm>2015-06-11T20:50:50</CreDtTm>
+      <NbOfTxs>1</NbOfTxs>
+      <InitgPty>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>1234567</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>Payments 1 10-6-2015</PmtInfId> 
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>1</NbOfTxs>
+      <CtrlSum>0.01</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+       <CtgyPurp>
+          <Cd>OTHR</Cd>
+       </CtgyPurp>
+      </PmtTpInf>
+      <ReqdExctnDt>2015-06-10</ReqdExctnDt>
+      <Dbtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">0.01</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>RABONL2U</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Wim</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL84RABO0331065266</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+           <Ustrd>Testje</Ustrd>
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+  </CstmrCdtTrfInitn>
+</Document>
+

@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<BetalingenLijst xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>1</BetalingsSeqNr>
+    <IBAN_Creditor>NL55INGB0004393421</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>2</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>test3</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2014-12-24T13:27:44.733</AanmaakDatum>
+    <VerstuurdDatum>2015-01-04T18:44:20.497</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2014-12-24T11:13:07</GewensteVerwerkingsDatum>
+    <Verstuurd>true</Verstuurd>
+    <Crediteur>Grimmelikhuijzen, Daniël</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT017</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>2</BetalingsSeqNr>
+    <IBAN_Creditor>NL75INGB0002535608</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>3</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving />
+    <EndToEndId>4211111111111111</EndToEndId>
+    <AanmaakDatum>2014-12-24T13:27:58.453</AanmaakDatum>
+    <VerstuurdDatum>2015-01-04T18:44:20.497</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2014-12-24T11:13:07</GewensteVerwerkingsDatum>
+    <Verstuurd>true</Verstuurd>
+    <Crediteur>Lindenaar, Martin</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT017</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>3</BetalingsSeqNr>
+    <IBAN_Creditor>NL55INGB0004393421</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>1</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>Op de 25ste</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2014-12-25T11:13:12.735</AanmaakDatum>
+    <VerstuurdDatum>2015-01-04T18:44:20.497</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2014-12-25T11:13:07.032</GewensteVerwerkingsDatum>
+    <Verstuurd>true</Verstuurd>
+    <Crediteur>Grimmelikhuijzen, Daniël</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT017</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>4</BetalingsSeqNr>
+    <IBAN_Creditor>NL55INGB0004393421</IBAN_Creditor>
+    <BIC_Creditor>INGBNL2A</BIC_Creditor>
+    <TotaalBedrag>0.0000</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>blabla</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2014-12-25T16:14:26.185</AanmaakDatum>
+    <VerstuurdDatum>2015-01-04T18:44:20.497</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2014-12-25T16:14:21.821</GewensteVerwerkingsDatum>
+    <Verstuurd>true</Verstuurd>
+    <Crediteur>Grimmelikhuijzen, Daniël</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT017</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+  <Betaling>
+    <Dirty>true</Dirty>
+    <BetalingsSeqNr>5</BetalingsSeqNr>
+    <IBAN_Creditor>NL84RABO0331065266</IBAN_Creditor>
+    <BIC_Creditor>RABONL2U</BIC_Creditor>
+    <TotaalBedrag>0.01</TotaalBedrag>
+    <TypeBetaling>0</TypeBetaling>
+    <IsOverig>true</IsOverig>
+    <Omschrijving>Testje</Omschrijving>
+    <EndToEndId />
+    <AanmaakDatum>2015-06-10T17:41:03.535</AanmaakDatum>
+    <VerstuurdDatum>2015-06-11T20:50:50.559</VerstuurdDatum>
+    <GewensteVerwerkingsDatum>2015-06-10T17:41:03.535</GewensteVerwerkingsDatum>
+    <Verstuurd>true</Verstuurd>
+    <Crediteur>Wim</Crediteur>
+    <ExtraC />
+    <ExtraB>SCT001</ExtraB>
+    <Extra1>0</Extra1>
+    <Extra2>0</Extra2>
+    <Extra3>0</Extra3>
+  </Betaling>
+</BetalingenLijst>

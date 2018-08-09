@@ -1,0 +1,168 @@
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.03" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrCdtTrfInitn>
+    <GrpHdr>
+      <MsgId>TTVN betaling 014</MsgId>
+      <CreDtTm>2014-12-25T15:26:15</CreDtTm>
+      <NbOfTxs>3</NbOfTxs>
+      <InitgPty>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+        <Id>
+          <OrgId>
+            <Othr>
+              <Id>1234567</Id>
+            </Othr>
+          </OrgId>
+        </Id>
+      </InitgPty>
+    </GrpHdr>
+    <PmtInf>
+      <PmtInfId>Payments 25-12-2014 15:26:15</PmtInfId> 
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>2</NbOfTxs>
+      <CtrlSum>5.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+       <CtgyPurp>
+          <Cd>OTHR</Cd>
+       </CtgyPurp>
+      </PmtTpInf>
+      <ReqdExctnDt>2014-12-24</ReqdExctnDt>
+      <Dbtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">2.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Grimmelikhuijzen, Daniel</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL55INGB0004393421</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>test3</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: 4211111111111111</EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">3.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Lindenaar, Martin</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL75INGB0002535608</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                       <Strd>
+                    <CdtrRefInf>
+                        <Tp>
+                            <CdOrPrtry>
+                                <Cd>SCOR</Cd>
+                            </CdOrPrtry>
+                        </Tp>
+                        <Ref>4211111111111111</Ref>
+                    </CdtrRefInf>
+               </Strd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+
+    <PmtInf>
+      <PmtInfId>Payments 25-12-2014 15:26:15</PmtInfId> 
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>1</NbOfTxs>
+      <CtrlSum>1.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+       <CtgyPurp>
+          <Cd>OTHR</Cd>
+       </CtgyPurp>
+      </PmtTpInf>
+      <ReqdExctnDt>2014-12-25</ReqdExctnDt>
+      <Dbtr>
+        <Nm>Tafeltennisvereniging Nieuwegein</Nm>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>NL84RABO0331065266</IBAN>
+        </Id>
+        <Ccy>EUR</Ccy>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BIC>RABONL2U</BIC>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+      <CdtTrfTxInf>
+        <PmtId>
+          <EndToEndId>Ref: </EndToEndId>
+        </PmtId>
+        <Amt>
+        <InstdAmt Ccy="EUR">1.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BIC>INGBNL2A</BIC>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Grimmelikhuijzen, Daniel</Nm>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>NL55INGB0004393421</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+                      <Ustrd>Op de 25ste</Ustrd>
+
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+
+  </CstmrCdtTrfInitn>
+</Document>
+

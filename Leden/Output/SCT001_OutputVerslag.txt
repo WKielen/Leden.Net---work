@@ -1,0 +1,9 @@
+Betalingverslag: D:\Visual studio projects Sync\Leden.Net - work\Leden\Output\SCT001.xml
+
+Batch Naam: Payments 1 10-6-2015
+Aantal: 1  Bedrag: € 0,01
+
+Wim                           10-6-2015      € 0,01      Testje                        
+
+
+

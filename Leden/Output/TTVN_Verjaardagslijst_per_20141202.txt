@@ -1,0 +1,92 @@
+01-01  Nieuw Lid 427
+11-01 Mark Franken
+15-01 Alex Witteman
+24-01 Wim Fassotte
+30-01 Rita van Alphen Hopman
+06-02 Richard Pijl
+07-02 Oscar Delissen
+07-02 Sandra Dubbers
+22-02 Semmi Mohamed Kamel
+24-02 Frits van Veen
+26-02 Douwe Peper
+26-02 Cor Grondhuis
+27-02 Sharon van Zelderen
+03-03 Patrick Nieuwendijk
+12-03 Maarten Benschop
+17-03 Wim Kielen
+20-03 Bart den Blanken
+25-03 Eric Holtman
+31-03 Danny Hendriks
+12-04 Martijn Alblas
+19-04 Marek Bednarczyk
+20-04 Hidde Schinkel
+21-04 Rein Band
+29-04 Estia Kruyswijk
+05-05 Pim Eijpe
+08-05 Tommy de Kruijf
+14-05 Martin Lindenaar
+18-05 Martijn de Waal
+22-05 Alex de Nas
+27-05 Rob Seldenrijk
+31-05 Ed Heijstek
+31-05 Teun Nonhof
+08-06 Jan van Alphen
+09-06 Jurre de Bree
+16-06 Frank Bodenstaff
+17-06 Lex Cramer
+18-06 Robin Strookman
+18-06 Bert Gozems
+22-06 Rob Groenen
+22-06 John van Tuyl
+25-06 Rens de Haas
+29-06 Peter Marijn
+04-07 Chris Snijders
+14-07 Milo van Wierst
+18-07 Ewa Bednarczyk
+22-07 Bas Papenhuijzen
+29-07 John Jansen
+28-07 Marco Mansi
+01-08 John van Spengen
+06-08 Amber Vink
+11-08 Sven Klein Gunnewiek
+17-08 Joy Zhou2
+20-08 Hendrik Brion
+23-08 Jaap Rutten
+26-08 Jasper Wannet
+25-08 Ruben Hengst
+28-08 Robin Warringa
+04-09 Darrel van Esterik
+11-09 Henk Bleeker
+19-09 Jan van de Biezen
+24-09 Jan Tuls
+27-09 Joris Bosboom
+02-10 Bruce Uyleman
+04-10 Jason van Otterlo
+06-10 Jan Duijveman
+08-10 Ernstjan Clement
+11-10 Finn Overbeek
+11-10 Juul Lamers
+13-10 Cody van Beek
+14-10 Piet Verkaik
+16-10 Ton Michies
+17-10 Martijn Heidema
+18-10 Daniël Grimmelikhuijzen
+18-10 Jan van Etten
+20-10 Sanne van Doorn
+23-10 Coen Drijfhout
+23-10 Gino Kader
+04-11 Erwin Nieuwendijk
+08-11 Eli Patz
+08-11 Mariska van Loon
+10-11 Mitch Fokkenrood
+15-11 Daam Hoogendijk
+22-11 Paul Oostveen
+03-12 Ruud Oosthoek
+05-12 Deborah Jekel
+11-12 Rob Verkuijl
+18-12 Jan Willem Jansen
+19-12 Joeri Goessen
+28-12 Arie van Nieuwkerk
+29-12 Renske de Waal
+29-12 Alan Wouterse
+30-12 Timo Brenninkmeyer

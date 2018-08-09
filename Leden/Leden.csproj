@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>7.10.3077</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{60159A6A-8DD0-4C50-B0D7-91F2E4B3B5C3}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>GRAPH09.ICO</ApplicationIcon>
+    <AssemblyKeyContainerName />
+    <AssemblyName>Leden.Net</AssemblyName>
+    <AssemblyOriginatorKeyFile />
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Leden.Net</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>Leden.Net.frmLeden</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Gebruiker\Dropbox\TTVN\Ledenadmin\Software\Leden.Net\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile />
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <DocumentationFile />
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn />
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile />
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile />
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn />
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;Debug</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <FileAlignment>4096</FileAlignment>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;Laptop</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <FileAlignment>4096</FileAlignment>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseAddress>285212672</BaseAddress>
+    <Optimize>true</Optimize>
+    <FileAlignment>4096</FileAlignment>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>ManagedMinimumRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7D22D8B86BADD863292220A7ED7AA2D6823818F9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Leden_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HtmlTextbox\HtmlTextbox.csproj">
+      <Project>{AAA9E9D4-7A91-46BF-A5FD-11538E57D5C2}</Project>
+      <Name>HtmlTextbox</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectListViewDemo\ListViewPrinter\ListViewPrinter2012.csproj">
+      <Project>{e73a10bd-2b5a-4bac-897f-3a58cfc07631}</Project>
+      <Name>ListViewPrinter2012</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectListViewDemo\ObjectListView\ObjectListView2012.csproj">
+      <Project>{18feda0c-d147-4286-b39a-01204808106a}</Project>
+      <Name>ObjectListView2012</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObjectListViewDemo\SparkleLibrary\SparkleLibrary2012.csproj">
+      <Project>{d63f9786-b608-4085-af08-d909448b0426}</Project>
+      <Name>SparkleLibrary2012</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SmtpEmailer\SmtpEmailer.csproj">
+      <Project>{d13063ce-ff5c-430a-9850-2f0394b02afa}</Project>
+      <Name>SmtpEmailer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Util\Util.csproj">
+      <Name>Util</Name>
+      <Project>{9A2EF158-A8CE-494C-9CC0-82C57C364FF7}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Util\DLLs\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="frmBetalingenBestand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBetalingenBestand.designer.cs">
+      <DependentUpon>frmBetalingenBestand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrediteuren.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrediteuren.designer.cs">
+      <DependentUpon>frmCrediteuren.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEenmaligeBetaling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEenmaligeBetaling.designer.cs">
+      <DependentUpon>frmEenmaligeBetaling.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAankondiging.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAankondiging.Designer.cs">
+      <DependentUpon>frmAankondiging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MySQL.cs" />
+    <Compile Include="tblCrediteur.cs" />
+    <Compile Include="frmBetalingInhoud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBetalingInhoud.designer.cs">
+      <DependentUpon>frmBetalingInhoud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp.Designer.cs">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLedenOverzicht1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLedenOverzicht1.designer.cs">
+      <DependentUpon>frmLedenOverzicht1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintObjectListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintObjectListView.Designer.cs">
+      <DependentUpon>frmPrintObjectListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncassoInhoud2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncassoInhoud2.designer.cs">
+      <DependentUpon>frmIncassoInhoud2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVCard.Designer.cs">
+      <DependentUpon>frmVCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="tblBetaling.cs" />
+    <Compile Include="tblVCard.cs" />
+    <Compile Include="frmNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNotes.Designer.cs">
+      <DependentUpon>frmNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmExportForMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExportForMail.Designer.cs">
+      <DependentUpon>frmExportForMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIncassoBestand2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIncassoBestand2.Designer.cs">
+      <DependentUpon>frmIncassoBestand2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompResult2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompResult2.Designer.cs">
+      <DependentUpon>frmCompResult2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRekeningOverzicht2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRekeningOverzicht2.Designer.cs">
+      <DependentUpon>frmRekeningOverzicht2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChart.Designer.cs">
+      <DependentUpon>frmChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEenmaligeRekening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEenmaligeRekening.Designer.cs">
+      <DependentUpon>frmEenmaligeRekening.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMultiMail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMultiMail.Designer.cs">
+      <DependentUpon>frmMultiMail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCompareNAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCompareNAS.Designer.cs">
+      <DependentUpon>frmCompareNAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tblCompResult.cs" />
+    <Compile Include="frmExportLijsten.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExportLijsten.Designer.cs">
+      <DependentUpon>frmExportLijsten.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParameters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParameters.Designer.cs">
+      <DependentUpon>frmParameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Parameters.cs" />
+    <Compile Include="tblRekening.cs" />
+    <Compile Include="frmContributieAanmaken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContributieAanmaken.Designer.cs">
+      <DependentUpon>frmContributieAanmaken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLedenSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLedenSelect.Designer.cs">
+      <DependentUpon>frmLedenSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DropDownLeden.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dsLeden.cs">
+      <DependentUpon>dsLeden.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsLeden.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsLeden.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeden.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeden.Designer.cs">
+      <DependentUpon>frmLeden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAdapters.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmBasis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tblLid.cs" />
+    <Compile Include="Utils.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Content Include="App.ico" />
+    <Content Include="GRAPH09.ICO" />
+    <Content Include="Files\Mail.htm" />
+    <Content Include="Files\Toelichting.htm" />
+    <None Include="Leden_TemporaryKey.pfx" />
+    <None Include="Resources\GRAPH09.ICO" />
+    <None Include="Resources\ttlogo5.png" />
+    <None Include="Resources\tick16.png" />
+    <None Include="Resources\star16.png" />
+    <EmbeddedResource Include="frmBetalingenBestand.resx">
+      <DependentUpon>frmBetalingenBestand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBetalingInhoud.resx">
+      <DependentUpon>frmBetalingInhoud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrediteuren.resx">
+      <DependentUpon>frmCrediteuren.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEenmaligeBetaling.resx">
+      <DependentUpon>frmEenmaligeBetaling.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp.resx">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAankondiging.resx">
+      <DependentUpon>frmAankondiging.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLedenOverzicht1.resx">
+      <DependentUpon>frmLedenOverzicht1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintObjectListView.resx">
+      <DependentUpon>frmPrintObjectListView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Resources\YellowAlert.png" />
+    <None Include="Resources\RedAlert.png" />
+    <None Include="Resources\GreenCheck2.png" />
+    <None Include="Resources\0HZPW6-lhQu[1].png" />
+    <EmbeddedResource Include="frmIncassoInhoud2.resx">
+      <DependentUpon>frmIncassoInhoud2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmvCard.resx">
+      <DependentUpon>frmVCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNotes.resx">
+      <DependentUpon>frmNotes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExportForMail.resx">
+      <DependentUpon>frmExportForMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIncassoBestand2.resx">
+      <DependentUpon>frmIncassoBestand2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompResult2.resx">
+      <DependentUpon>frmCompResult2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRekeningOverzicht2.resx">
+      <DependentUpon>frmRekeningOverzicht2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChart.resx">
+      <DependentUpon>frmChart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEenmaligeRekening.resx">
+      <DependentUpon>frmEenmaligeRekening.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMultiMail.resx">
+      <DependentUpon>frmMultiMail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCompareNAS.resx">
+      <DependentUpon>frmCompareNAS.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExportLijsten.resx">
+      <DependentUpon>frmExportLijsten.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParameters.resx">
+      <DependentUpon>frmParameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLedenSelect.resx">
+      <DependentUpon>frmLedenSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DropDownLeden.resx">
+      <DependentUpon>DropDownLeden.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeden.resx">
+      <DependentUpon>frmLeden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataAdapters.resx">
+      <DependentUpon>DataAdapters.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBasis.resx">
+      <DependentUpon>frmBasis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContributieAanmaken.resx">
+      <DependentUpon>frmContributieAanmaken.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="dsLeden.xsc">
+      <DependentUpon>dsLeden.xsd</DependentUpon>
+    </None>
+    <None Include="dsLeden.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsLeden.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsLeden.xss">
+      <DependentUpon>dsLeden.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent />
+    <PostBuildEvent />
+  </PropertyGroup>
+</Project>
