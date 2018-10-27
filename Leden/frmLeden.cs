@@ -1338,29 +1338,29 @@ namespace Leden.Net
         {
             this.Cursor = Cursors.WaitCursor;
 #if DEBUG
-            string db = "LedenTest";
+            string db = "ttest";
 #else
             string db = "ttvn";
 #endif
             LedenLijst localLeden = da.VulLedenLijst(true);
             ResultatenLijst resultaten = da.VulCompResultRecords();
             RekeningenLijst rekeningen = da.VulRekeningRecords();
-            CrediteurenLijst crediteuren = da.VulCrediteurenRecords();
-            BetalingenLijst betalingen = da.VulBetalingRecords();
+            //CrediteurenLijst crediteuren = da.VulCrediteurenRecords();
+            //BetalingenLijst betalingen = da.VulBetalingRecords();
             
-            MySqlDB mySqlDB = new MySqlDB(db, "3198048", "_ToegangsCode");
+            MySqlDB mySqlDB = new MySqlDB(db, "3198048", "TTVN4all");
 
             foreach (tblLid x in localLeden) x.Dirty = true;
             foreach (tblRekening x in rekeningen) x.Dirty = true;
             foreach (tblCompResult x in resultaten) x.Dirty = true;
-            foreach (tblBetaling x in betalingen) x.Dirty = true;
-            foreach (tblCrediteur x in crediteuren) x.Dirty = true;
+            //foreach (tblBetaling x in betalingen) x.Dirty = true;
+            //foreach (tblCrediteur x in crediteuren) x.Dirty = true;
 
             mySqlDB.Update(localLeden);
             mySqlDB.Update(rekeningen);
             mySqlDB.Update(resultaten);
-            mySqlDB.Update(betalingen);
-            mySqlDB.Update(crediteuren);
+            //mySqlDB.Update(betalingen);
+            //mySqlDB.Update(crediteuren);
             this.Cursor = Cursors.Default;
 
             MessageBox.Show("Alle tabellen geupload naar " + db, "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -1370,7 +1370,7 @@ namespace Leden.Net
         {
 
 #if DEBUG
-            string db = "LedenTest";
+            string db = "ttest";
 #else
             string db = "ttvn";
 #endif

@@ -1006,8 +1006,6 @@ namespace Leden.Net
             sb.Append("&ExtraC=" + "_ExtraC");
             sb.Append("&ExtraD=" + _ExtraD);
             sb.Append("&ExtraE=" + _ExtraE);
-            sb.Append("&ToegangsCode=" + "_ToegangsCode");
-            sb.Append("&Rol=" + "_Rol");
             sb.Append("&Image=" + _Image);
 
             return sb.ToString();
