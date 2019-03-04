@@ -56,7 +56,7 @@ namespace Leden.Net
 		/// </summary>
 		private System.ComponentModel.Container components = null;
 
-        string databaseString = "user=3198048&pw=_ToegangsCode&db=LedenTest";
+        //string databaseString = "user=3198048&pw=_ToegangsCode&db=LedenTest";
 
 
 		public DataAdapters(System.ComponentModel.IContainer container)

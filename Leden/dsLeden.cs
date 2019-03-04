@@ -1,7 +1,8 @@
 ﻿namespace Leden.Net
 {
-    
-    
-    public partial class dsLeden {
+
+
+    public partial class dsLeden
+    {
     }
 }

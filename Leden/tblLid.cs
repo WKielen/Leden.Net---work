@@ -141,6 +141,7 @@ namespace Leden.Net
 
         private bool _isDirty;
         /// <summary>Get or Set the Dirty flag</summary>
+        [JsonIgnore]
         public bool Dirty
         {
             get { return _isDirty; }
@@ -189,6 +190,7 @@ namespace Leden.Net
         /// </summary>
         [Category(A)]
         [XmlIgnore]
+        [JsonIgnore]
         public string VolledigeNaam
         {
             get
@@ -205,6 +207,7 @@ namespace Leden.Net
         /// </summary>
         [Category(A)]
         [XmlIgnore]
+        [JsonIgnore]
         public string NetteNaam
         {
             get
@@ -287,6 +290,7 @@ namespace Leden.Net
         [Category(LeeftijdGegevens)]
         [XmlIgnore]
         /// <summary>De leeftijd op huidige datum  (GET ONLY)</summary>
+        [JsonIgnore]
         public int Leeftijd
         {
             get { return DateRoutines.Age(_GeboorteDatum); }
@@ -298,6 +302,7 @@ namespace Leden.Net
         /// <returns>65+ or SEN or SEN 1 or JUN 1,2,3 or CAD 1,2 or PUP 1,2 or WLP 2,1,0,-1,-2</returns>
         [Category(LeeftijdGegevens)]
         [XmlIgnore]
+        [JsonIgnore]
         public string LeeftijdCategorieLong
         {
             get { return DateRoutines.LeeftijdCategorieBond(_GeboorteDatum, true); }
@@ -309,6 +314,7 @@ namespace Leden.Net
         /// <returns>SEN or JUN or CAD or PUP or WLP</returns>
         [Category(LeeftijdGegevens)]
         [XmlIgnore]
+        [JsonIgnore]
         public string LeeftijdCategorie
         {
             get { return DateRoutines.LeeftijdCategorieBond(_GeboorteDatum, false); }
@@ -316,54 +322,63 @@ namespace Leden.Net
 
         /// <summary>Is lid WLP    (GET ONLY)</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsWLP
         {
             get { return LeeftijdCategorie == constWelp; }
         }
         /// <summary>Is lid PUP    (GET ONLY)</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsPUP
         {
             get { return LeeftijdCategorie  == constPupil; }
         }
         /// <summary>Is lid CAD    (GET ONLY)</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsCAD
         {
             get { return LeeftijdCategorie == constCadet; }
         }
         /// <summary>Is lid JUN    (GET ONLY)</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsJUN
         {
             get { return LeeftijdCategorie == constJunior; }
         }
         /// <summary>Is lid SEN1    (GET ONLY)</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsSEN1
         {
             get { return LeeftijdCategorieLong == constSenior1; }
         }
         /// <summary>Checks if LID is SEN, </summary>
         [XmlIgnore]
+        [JsonIgnore]
         private bool IsSEN
         {
             get { return LeeftijdCategorieLong == constSenior; }
         }
         /// <summary>Is lid 65+    (GET ONLY)</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool Is65plus
         {
             get { return LeeftijdCategorieLong == const65Plus; }
         }
         /// <summary>Checks if LID is WLP,PUP,CAD,JUN or SEN1</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool Is_WLP_PUP_CAD_JUN_SEN1
         {
             get { return IsWLP || IsPUP || IsCAD || IsJUN || IsSEN1; }
         }
         /// <summary>Checks if LID is Sen1 or 65+ or SEN</summary>
         [XmlIgnore]
+        [JsonIgnore]
         public bool Is_SEN1_65_SEN
         {
             get { return IsSEN1 || Is65plus || IsSEN; }
@@ -374,21 +389,25 @@ namespace Leden.Net
 
         
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLidNormaal
         {
             get { return _LidType == constLidNormaal; }
         }
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLidZwerf
         {
             get { return _LidType == constLidZwerflid; }
         }
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLidContVrij
         {
             get { return _LidType == constLidContributieVrij; }
         }
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLidPakket
         {
             get { return _LidType == constLidPakket; }
@@ -397,24 +416,28 @@ namespace Leden.Net
 
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsRekening
         {
             get { return _BetaalWijze == constBetwRekening; }
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsIncasso
         {
             get { return _BetaalWijze == constBetwIncasso; }
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsUPas
         {
             get { return _BetaalWijze == constBetwUPas; }
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsZelfBetaler
         {
             get { return _BetaalWijze == constZelfBetaler; }
@@ -475,6 +498,7 @@ namespace Leden.Net
         /// <summary>Belangrijkste email adres voor incasso mail</summary>
         [Category(A)]
         [XmlIgnore]
+        [JsonIgnore]
         public string MainEmailAdress
         {
             get {return ( Is_WLP_PUP_CAD_JUN_SEN1 && _Ouder1_Email1 != string.Empty) ?  _Ouder1_Email1 : _Email1; }
@@ -485,6 +509,7 @@ namespace Leden.Net
         /// Returns the serialnumber of the LidType Codes "N" --> 1   { "N", "Z", "V", "P" }
         /// </summary> 
         [XmlIgnore]
+        [JsonIgnore]
         public int ItemNr_From_To_LidType
         {
             get
@@ -558,6 +583,7 @@ namespace Leden.Net
 		/// <summary>Get or Set Gemerkt value</summary>
         [Category(A)]
         [JsonConverter(typeof(BoolConverter))]
+        [JsonIgnore]
         public bool Gemerkt 
 		{
 			get { return _Gemerkt ; }
@@ -593,6 +619,7 @@ namespace Leden.Net
 
         [Category(FinancieelGegevens)]
         [XmlIgnore]
+        [JsonIgnore]
         public int ItemNr_From_To_BetaalWijze
         {
             get
@@ -664,6 +691,7 @@ namespace Leden.Net
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLicentieA
         {
             get { return _LicentieJun == "A"; }
@@ -677,6 +705,7 @@ namespace Leden.Net
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLicentieB
         {
             get { return _LicentieJun == "B"; }
@@ -691,6 +720,7 @@ namespace Leden.Net
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLicentieGeen
         {
             get { return _LicentieJun == string.Empty; }
@@ -704,6 +734,7 @@ namespace Leden.Net
             }
         }
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsLicentieAB
         {
             get { return (IsLicentieA || IsLicentieB); }
@@ -718,6 +749,7 @@ namespace Leden.Net
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsToernooiSpeler
         {
             get { return _ToernooiSpeler == 1; }
@@ -725,6 +757,7 @@ namespace Leden.Net
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsRanglijstSpeler
         {
             get { return _ToernooiSpeler == 2; }
@@ -732,6 +765,7 @@ namespace Leden.Net
         }
 
         [XmlIgnore]
+        [JsonIgnore]
         public bool IsMinimeerkampSpeler
         {
             get { return IsToernooiSpeler && (IsWLP || IsPUP); }
@@ -788,6 +822,7 @@ namespace Leden.Net
         private string _Ouder2_Naam ;
 		/// <summary>Get or Set Ouder2_Naam value</summary>
         [Category(Ouder2Gegevens)]
+        [JsonIgnore]
         public string Ouder2_Naam 
 		{
 			get { return _Ouder2_Naam ; }
@@ -797,6 +832,7 @@ namespace Leden.Net
 		private string _Ouder2_Email1 ;
 		/// <summary>Get or Set Ouder2_Email1 value</summary>
         [Category(Ouder2Gegevens)]
+        [JsonIgnore]
         public string Ouder2_Email1 
 		{
 			get { return _Ouder2_Email1 ; }
@@ -806,6 +842,7 @@ namespace Leden.Net
 		private string _Ouder2_Email2 ;
 		/// <summary>Get or Set Ouder2_Email2 value</summary>
         [Category(Ouder2Gegevens)]
+        [JsonIgnore]
         public string Ouder2_Email2 
 		{
 			get { return _Ouder2_Email2 ; }
@@ -815,6 +852,7 @@ namespace Leden.Net
 		private string _Ouder2_Mobiel ;
 		/// <summary>Get or Set Ouder2_Mobiel value</summary>
         [Category(Ouder2Gegevens)]
+        [JsonIgnore]
         public string Ouder2_Mobiel 
 		{
 			get { return _Ouder2_Mobiel ; }
@@ -824,6 +862,7 @@ namespace Leden.Net
         private string _Ouder2_Telefoon ;
 		/// <summary>Get or Set Ouder2_Telefoon value</summary>
         [Category(Ouder2Gegevens)]
+        [JsonIgnore]
         public string Ouder2_Telefoon 
 		{
 			get { return _Ouder2_Telefoon ; }
@@ -893,6 +932,7 @@ namespace Leden.Net
         private string _ExtraD;
         /// <summary>Get or Set ExtraD</summary>
         [Category(Extra)]
+        [JsonIgnore]
         public string ExtraD
         {
             get { return _ExtraD; }
@@ -902,6 +942,7 @@ namespace Leden.Net
         private string _ExtraE;
         /// <summary>Get or Set ExtraE</summary>
         [Category(Extra)]
+        [JsonIgnore]
         public string ExtraE
         {
             get { return _ExtraE; }
@@ -911,6 +952,7 @@ namespace Leden.Net
         #endregion
 
         [XmlIgnore]
+        [JsonIgnore]
         public List<EmailAdresLid> EmailAdresses
         {
             get
@@ -985,28 +1027,20 @@ namespace Leden.Net
             sb.Append("&Ouder1_Email2=" + _Ouder1_Email2);
             sb.Append("&Ouder1_Mobiel=" + _Ouder1_Mobiel);
             sb.Append("&Ouder1_Telefoon=" + _Ouder1_Telefoon);
+
             sb.Append("&Ouder2_Naam=" + _Ouder2_Naam);
             sb.Append("&Ouder2_Email1=" + _Ouder2_Email1);
             sb.Append("&Ouder2_Email2=" + _Ouder2_Email2);
             sb.Append("&Ouder2_Mobiel=" + _Ouder2_Mobiel);
             sb.Append("&Ouder2_Telefoon=" + _Ouder2_Telefoon);
+
             sb.Append("&VrijwillgersRegelingIsVanToepassing=" + (_VrijwillgersRegelingIsVanToepassing ? "1" : "0"));
             sb.Append("&VrijwillgersVasteTaak=" + (_VrijwillgersVasteTaak ? "1" : "0"));
             sb.Append("&VrijwillgersAfgekocht=" + (_VrijwillgersAfgekocht ? "1" : "0"));
             sb.Append("&VrijwillgersToelichting=" + _VrijwillgersToelichting);
             sb.Append("&LicentieSen=" + _LicentieSen);
             sb.Append("&LicentieJun=" + _LicentieJun);
-            sb.Append("&Extra1=" + "1");
-            sb.Append("&Extra2=" + "2");
             sb.Append("&Rating=" + _Rating.ToString());
-            sb.Append("&Extra4=" + "4");
-            sb.Append("&Extra5=" + "5");
-            sb.Append("&ExtraA=" + "_ExtraA");
-            sb.Append("&ExtraB=" + "_ExtraB");
-            sb.Append("&ExtraC=" + "_ExtraC");
-            sb.Append("&ExtraD=" + _ExtraD);
-            sb.Append("&ExtraE=" + _ExtraE);
-            sb.Append("&Image=" + _Image);
 
             return sb.ToString();
         }
@@ -1106,5 +1140,117 @@ namespace Leden.Net
         public string message { get; set; }
         public LedenLijst posts { get; set; }
     }
+
+    public class Lid
+    {
+        public Lid (tblLid lid)
+        {
+            this.LidNr = lid.LidNr;
+            this.Voornaam = lid.Voornaam;
+            this.Achternaam = lid.Achternaam;
+            this.Tussenvoegsel = lid.Tussenvoegsel;
+            this.Adres = lid.Adres;
+            this.Woonplaats = lid.Woonplaats;
+            this.Postcode = lid.Postcode;
+            this.Mobiel = lid.Mobiel;
+            this.Telefoon = lid.Telefoon;
+            this.Geslacht = lid.Geslacht;
+            this.GeboorteDatum = lid.GeboorteDatum;
+            this.BondsNr = lid.BondsNr;
+            this.LidBond = lid.LidBond;
+            this.CompGerechtigd = lid.CompGerechtigd;
+            this.Email1 = lid.Email1;
+            this.Email2 = lid.Email2;
+            this.LidType = lid.LidType;
+            this.LidVanaf = lid.LidVanaf;
+            this.Opgezegd = lid.Opgezegd;
+            this.LidTot = lid.LidTot;
+            this.PakketTot = lid.PakketTot;
+            this.Medisch = lid.Medisch;
+            this.IBAN = lid.IBAN;
+            this.BIC = lid.BIC;
+            this.BetaalWijze = lid.BetaalWijze;
+            this.VastBedrag = lid.VastBedrag;
+            this.Korting = lid.Korting;
+            this.U_PasNr = lid.U_PasNr;
+            this.Geincasseerd = lid.Geincasseerd;
+            this.LicentieJun = lid.LicentieJun;
+            this.ToernooiSpeler = lid.ToernooiSpeler;
+            this.Ouder1_Naam = lid.Ouder1_Naam;
+            this.Ouder1_Email1 = lid.Ouder1_Email1;
+            this.Ouder1_Email2 = lid.Ouder1_Email2;
+            this.Ouder1_Mobiel = lid.Ouder1_Mobiel;
+            this.Ouder1_Telefoon = lid.Ouder1_Telefoon;
+            this.Ouder2_Naam = "";
+            this.Ouder2_Email1 = "";
+            this.Ouder2_Email2 = "";
+            this.Ouder2_Mobiel = "";
+            this.Ouder2_Telefoon = "";
+            this.VrijwillgersRegelingIsVanToepassing = lid.VrijwillgersRegelingIsVanToepassing;
+            this.Rating = lid.Rating;
+            this.VrijwillgersVasteTaak = lid.VrijwillgersVasteTaak;
+            this.VrijwillgersAfgekocht = lid.VrijwillgersAfgekocht;
+            this.VrijwillgersToelichting = lid.VrijwillgersToelichting;
+            this.LicentieSen = lid.LicentieSen;
+        }
+
+
+        public int LidNr { get; set; }
+        public string Voornaam { get; set; }
+        public string Achternaam { get; set; }
+        public string Tussenvoegsel { get; set; }
+        public string Adres { get; set; }
+        public string Woonplaats { get; set; }
+        public string Postcode { get; set; }
+        public string Mobiel { get; set; }
+        public string Telefoon { get; set; }
+        public string Geslacht { get; set; }
+        public DateTime GeboorteDatum { get; set; }
+        public string BondsNr { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool LidBond { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool CompGerechtigd { get; set; }
+        public string Email1 { get; set; }
+        public string Email2 { get; set; }
+        public string LidType { get; set; }
+        public DateTime LidVanaf { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool Opgezegd { get; set; }
+        public DateTime LidTot { get; set; }
+        public DateTime PakketTot { get; set; }
+        public string Medisch { get; set; }
+        public string IBAN { get; set; }
+        public string BIC { get; set; }
+        public string BetaalWijze { get; set; }
+        public decimal VastBedrag { get; set; }
+        public decimal Korting { get; set; }
+        public string U_PasNr { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool Geincasseerd { get; set; }
+        public string LicentieJun { get; set; }
+        public int ToernooiSpeler { get; set; }
+        public string Ouder1_Naam { get; set; }
+        public string Ouder1_Email1 { get; set; }
+        public string Ouder1_Email2 { get; set; }
+        public string Ouder1_Mobiel { get; set; }
+        public string Ouder1_Telefoon { get; set; }
+        public string Ouder2_Naam { get; set; }
+        public string Ouder2_Email1 { get; set; }
+        public string Ouder2_Email2 { get; set; }
+        public string Ouder2_Mobiel { get; set; }
+        public string Ouder2_Telefoon { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool VrijwillgersRegelingIsVanToepassing { get; set; }
+        public int Rating { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool VrijwillgersVasteTaak { get; set; }
+        [JsonConverter(typeof(BoolConverter))]
+        public bool VrijwillgersAfgekocht { get; set; }
+        public string VrijwillgersToelichting { get; set; }
+        public string LicentieSen { get; set; }
+    }
+
+
 }
  
